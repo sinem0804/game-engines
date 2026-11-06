@@ -136,7 +136,10 @@ crashlytics-build.properties
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
-# Unity generated folders, including nested projects
+# macOS
+.DS_Store
+
+# Unity generated folders in nested projects
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
