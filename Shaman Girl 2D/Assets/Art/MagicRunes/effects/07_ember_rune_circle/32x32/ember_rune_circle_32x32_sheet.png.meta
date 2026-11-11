@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: d0760b3987d4f427b853f33274d96ec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4840095216574515492
+    second: ember_rune_circle_32x32_sheet_0
+  - first:
+      213: -8269263542281301823
+    second: ember_rune_circle_32x32_sheet_1
+  - first:
+      213: 2903146875925810459
+    second: ember_rune_circle_32x32_sheet_2
+  - first:
+      213: 4676862963157066270
+    second: ember_rune_circle_32x32_sheet_3
+  - first:
+      213: 1305430242996451993
+    second: ember_rune_circle_32x32_sheet_4
+  - first:
+      213: -2454149434420602732
+    second: ember_rune_circle_32x32_sheet_5
+  - first:
+      213: -1457276568380607746
+    second: ember_rune_circle_32x32_sheet_6
+  - first:
+      213: -966756694029033107
+    second: ember_rune_circle_32x32_sheet_7
+  - first:
+      213: 2060913486757189883
+    second: ember_rune_circle_32x32_sheet_8
+  - first:
+      213: -450235101333282078
+    second: ember_rune_circle_32x32_sheet_9
+  - first:
+      213: -1091466472819830060
+    second: ember_rune_circle_32x32_sheet_10
+  - first:
+      213: -1535209120148212699
+    second: ember_rune_circle_32x32_sheet_11
+  - first:
+      213: -2203106238667868361
+    second: ember_rune_circle_32x32_sheet_12
+  - first:
+      213: 5831831357528195142
+    second: ember_rune_circle_32x32_sheet_13
+  - first:
+      213: 4687827723909017175
+    second: ember_rune_circle_32x32_sheet_14
+  - first:
+      213: -4744154944520202077
+    second: ember_rune_circle_32x32_sheet_15
+  - first:
+      213: -7888616764338597892
+    second: ember_rune_circle_32x32_sheet_16
+  - first:
+      213: -7258041211194891133
+    second: ember_rune_circle_32x32_sheet_17
+  - first:
+      213: 5121129380888237560
+    second: ember_rune_circle_32x32_sheet_18
+  - first:
+      213: -1657690063820355878
+    second: ember_rune_circle_32x32_sheet_19
+  - first:
+      213: -2421051548188784543
+    second: ember_rune_circle_32x32_sheet_20
+  - first:
+      213: 806550870339447445
+    second: ember_rune_circle_32x32_sheet_21
+  - first:
+      213: 4655819313548925093
+    second: ember_rune_circle_32x32_sheet_22
+  - first:
+      213: 571170229295218440
+    second: ember_rune_circle_32x32_sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429cdfe94f87b2340800000000000000
+      internalID: 4840095216574515492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c01c38ee9cad3d80800000000000000
+      internalID: -8269263542281301823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dc75eb3bc0a4820800000000000000
+      internalID: 2903146875925810459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12682ef51e87e040800000000000000
+      internalID: 4676862963157066270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afad8b3e1dd1210800000000000000
+      internalID: 1305430242996451993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49852af871c11fdd0800000000000000
+      internalID: -2454149434420602732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27c2a9ea6b6cbe0800000000000000
+      internalID: -1457276568380607746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612b2ca8e36592f0800000000000000
+      internalID: -966756694029033107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf859f2a5e5d99c10800000000000000
+      internalID: 2060913486757189883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e22e9f8f8170c9f0800000000000000
+      internalID: -450235101333282078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2535b96055ad0f0800000000000000
+      internalID: -1091466472819830060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_rune_circle_32x32_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52430a96077d1bae0800000000000000
+      internalID: -1535209120148212699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a5308db8f73c649f4937d2f62082972f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ember_rune_circle_32x32_sheet_0: 4840095216574515492
+      ember_rune_circle_32x32_sheet_1: -8269263542281301823
+      ember_rune_circle_32x32_sheet_10: -1091466472819830060
+      ember_rune_circle_32x32_sheet_11: -1535209120148212699
+      ember_rune_circle_32x32_sheet_2: 2903146875925810459
+      ember_rune_circle_32x32_sheet_3: 4676862963157066270
+      ember_rune_circle_32x32_sheet_4: 1305430242996451993
+      ember_rune_circle_32x32_sheet_5: -2454149434420602732
+      ember_rune_circle_32x32_sheet_6: -1457276568380607746
+      ember_rune_circle_32x32_sheet_7: -966756694029033107
+      ember_rune_circle_32x32_sheet_8: 2060913486757189883
+      ember_rune_circle_32x32_sheet_9: -450235101333282078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: cf131c3268e0b43669cfbaf2837ea0a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8950245615763768702
+    second: verdant_teleport_64x64_sheet_0
+  - first:
+      213: -8356176207165599690
+    second: verdant_teleport_64x64_sheet_1
+  - first:
+      213: 9124334557057377008
+    second: verdant_teleport_64x64_sheet_2
+  - first:
+      213: 2990808332436481629
+    second: verdant_teleport_64x64_sheet_3
+  - first:
+      213: -326777879899196530
+    second: verdant_teleport_64x64_sheet_4
+  - first:
+      213: -81216120409813243
+    second: verdant_teleport_64x64_sheet_5
+  - first:
+      213: -2006122314848419824
+    second: verdant_teleport_64x64_sheet_6
+  - first:
+      213: 6691099150663682020
+    second: verdant_teleport_64x64_sheet_7
+  - first:
+      213: -8244314686190804268
+    second: verdant_teleport_64x64_sheet_8
+  - first:
+      213: 1787813421728099395
+    second: verdant_teleport_64x64_sheet_9
+  - first:
+      213: -722160042583584612
+    second: verdant_teleport_64x64_sheet_10
+  - first:
+      213: -4673658849776759507
+    second: verdant_teleport_64x64_sheet_11
+  - first:
+      213: 7308753186734269901
+    second: verdant_teleport_64x64_sheet_12
+  - first:
+      213: 1110545962972250981
+    second: verdant_teleport_64x64_sheet_13
+  - first:
+      213: 367699236511059320
+    second: verdant_teleport_64x64_sheet_14
+  - first:
+      213: 3830668516459044084
+    second: verdant_teleport_64x64_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c81497f8a53c70800000000000000
+      internalID: 8950245615763768702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d2533306e80c80800000000000000
+      internalID: -8356176207165599690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e935dfe520ae70800000000000000
+      internalID: 9124334557057377008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a726155c718920800000000000000
+      internalID: 2990808332436481629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e833724ef3d077bf0800000000000000
+      internalID: -326777879899196530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f00f86e567fdef0800000000000000
+      internalID: -81216120409813243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010c97f2262d824e0800000000000000
+      internalID: -2006122314848419824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e70a300a3f8bdc50800000000000000
+      internalID: 6691099150663682020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 59
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2af01297f469d80800000000000000
+      internalID: -8244314686190804268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c67c6b5d69fc810800000000000000
+      internalID: 1787813421728099395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9013d6744f5af5f0800000000000000
+      internalID: -722160042583584612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d02b9c904d32fb0800000000000000
+      internalID: -4673658849776759507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ec46cc48ed6560800000000000000
+      internalID: 7308753186734269901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56384bd5ba3796f00800000000000000
+      internalID: 1110545962972250981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8c68e1845a1500800000000000000
+      internalID: 367699236511059320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_teleport_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc50df48b4492530800000000000000
+      internalID: 3830668516459044084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verdant_teleport_64x64_sheet_0: 8950245615763768702
+      verdant_teleport_64x64_sheet_1: -8356176207165599690
+      verdant_teleport_64x64_sheet_10: -722160042583584612
+      verdant_teleport_64x64_sheet_11: -4673658849776759507
+      verdant_teleport_64x64_sheet_12: 7308753186734269901
+      verdant_teleport_64x64_sheet_13: 1110545962972250981
+      verdant_teleport_64x64_sheet_14: 367699236511059320
+      verdant_teleport_64x64_sheet_15: 3830668516459044084
+      verdant_teleport_64x64_sheet_2: 9124334557057377008
+      verdant_teleport_64x64_sheet_3: 2990808332436481629
+      verdant_teleport_64x64_sheet_4: -326777879899196530
+      verdant_teleport_64x64_sheet_5: -81216120409813243
+      verdant_teleport_64x64_sheet_6: -2006122314848419824
+      verdant_teleport_64x64_sheet_7: 6691099150663682020
+      verdant_teleport_64x64_sheet_8: -8244314686190804268
+      verdant_teleport_64x64_sheet_9: 1787813421728099395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

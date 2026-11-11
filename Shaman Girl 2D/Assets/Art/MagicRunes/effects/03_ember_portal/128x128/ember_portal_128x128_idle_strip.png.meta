@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 0450fb9fe769d427488f0a0bd15e99bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2140019101465025393
+    second: ember_portal_128x128_idle_strip_0
+  - first:
+      213: -7163514749563726190
+    second: ember_portal_128x128_idle_strip_1
+  - first:
+      213: -8999342960369228196
+    second: ember_portal_128x128_idle_strip_2
+  - first:
+      213: 3381886461123381287
+    second: ember_portal_128x128_idle_strip_3
+  - first:
+      213: 4073805033975120727
+    second: ember_portal_128x128_idle_strip_4
+  - first:
+      213: -367173387172647047
+    second: ember_portal_128x128_idle_strip_5
+  - first:
+      213: -1420901235970514688
+    second: ember_portal_128x128_idle_strip_6
+  - first:
+      213: -5357698277356617882
+    second: ember_portal_128x128_idle_strip_7
+  - first:
+      213: 1056757829860891637
+    second: ember_portal_128x128_idle_strip_8
+  - first:
+      213: -6705317347119517452
+    second: ember_portal_128x128_idle_strip_9
+  - first:
+      213: 755761941639157788
+    second: ember_portal_128x128_idle_strip_10
+  - first:
+      213: 8207367863058423829
+    second: ember_portal_128x128_idle_strip_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b9f53d800e2bd10800000000000000
+      internalID: 2140019101465025393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969bf80a45169c90800000000000000
+      internalID: -7163514749563726190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a7431249eb1380800000000000000
+      internalID: -8999342960369228196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72846f181dfdeee20800000000000000
+      internalID: 3381886461123381287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753094e2810198830800000000000000
+      internalID: 4073805033975120727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe89eefb987eaf0800000000000000
+      internalID: -367173387172647047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0016019aad1f74ce0800000000000000
+      internalID: -1420901235970514688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbf649dc1a5a5b0800000000000000
+      internalID: -5357698277356617882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb9876b5ab5aae00800000000000000
+      internalID: 1056757829860891637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03daa266de1f2a0800000000000000
+      internalID: -6705317347119517452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1859225b710d7a00800000000000000
+      internalID: 755761941639157788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_128x128_idle_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 0
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ed82469d66e170800000000000000
+      internalID: 8207367863058423829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ember_portal_128x128_idle_strip_0: 2140019101465025393
+      ember_portal_128x128_idle_strip_1: -7163514749563726190
+      ember_portal_128x128_idle_strip_10: 755761941639157788
+      ember_portal_128x128_idle_strip_11: 8207367863058423829
+      ember_portal_128x128_idle_strip_2: -8999342960369228196
+      ember_portal_128x128_idle_strip_3: 3381886461123381287
+      ember_portal_128x128_idle_strip_4: 4073805033975120727
+      ember_portal_128x128_idle_strip_5: -367173387172647047
+      ember_portal_128x128_idle_strip_6: -1420901235970514688
+      ember_portal_128x128_idle_strip_7: -5357698277356617882
+      ember_portal_128x128_idle_strip_8: 1056757829860891637
+      ember_portal_128x128_idle_strip_9: -6705317347119517452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: aff2cf19fc0e34c5ab744eb16072dda0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 487951882377945540
+    second: verdant_portal_64x64_idle_strip_0
+  - first:
+      213: -3003613855031856862
+    second: verdant_portal_64x64_idle_strip_1
+  - first:
+      213: 6276082316265890293
+    second: verdant_portal_64x64_idle_strip_2
+  - first:
+      213: -5070036209091102253
+    second: verdant_portal_64x64_idle_strip_3
+  - first:
+      213: 4489008284991237148
+    second: verdant_portal_64x64_idle_strip_4
+  - first:
+      213: 906383677560463740
+    second: verdant_portal_64x64_idle_strip_5
+  - first:
+      213: 4174052908372250877
+    second: verdant_portal_64x64_idle_strip_6
+  - first:
+      213: -7297853705086749626
+    second: verdant_portal_64x64_idle_strip_7
+  - first:
+      213: 4884931553596815917
+    second: verdant_portal_64x64_idle_strip_8
+  - first:
+      213: -8241709279166887853
+    second: verdant_portal_64x64_idle_strip_9
+  - first:
+      213: -6003643863862522532
+    second: verdant_portal_64x64_idle_strip_10
+  - first:
+      213: -7482343011112833542
+    second: verdant_portal_64x64_idle_strip_11
+  - first:
+      213: 7925366039161187717
+    second: verdant_portal_64x64_idle_strip_12
+  - first:
+      213: -6599186955361158730
+    second: verdant_portal_64x64_idle_strip_13
+  - first:
+      213: -2533002276221884842
+    second: verdant_portal_64x64_idle_strip_14
+  - first:
+      213: 4488763021869016462
+    second: verdant_portal_64x64_idle_strip_15
+  - first:
+      213: 2870738601981730889
+    second: verdant_portal_64x64_idle_strip_16
+  - first:
+      213: -8871194457048076881
+    second: verdant_portal_64x64_idle_strip_17
+  - first:
+      213: 6381695823356476088
+    second: verdant_portal_64x64_idle_strip_18
+  - first:
+      213: -7649358567583309624
+    second: verdant_portal_64x64_idle_strip_19
+  - first:
+      213: 8298864540005265933
+    second: verdant_portal_64x64_idle_strip_20
+  - first:
+      213: -2018069276211457378
+    second: verdant_portal_64x64_idle_strip_21
+  - first:
+      213: 6726849254693154787
+    second: verdant_portal_64x64_idle_strip_22
+  - first:
+      213: -2564159842879177508
+    second: verdant_portal_64x64_idle_strip_23
+  - first:
+      213: 4505890408453939614
+    second: verdant_portal_64x64_idle_strip_24
+  - first:
+      213: 3402817195402171339
+    second: verdant_portal_64x64_idle_strip_25
+  - first:
+      213: -5854299817576870512
+    second: verdant_portal_64x64_idle_strip_26
+  - first:
+      213: 7884836036647730672
+    second: verdant_portal_64x64_idle_strip_27
+  - first:
+      213: 5476536586846662999
+    second: verdant_portal_64x64_idle_strip_28
+  - first:
+      213: 8918912400169761698
+    second: verdant_portal_64x64_idle_strip_29
+  - first:
+      213: -7298114613279904536
+    second: verdant_portal_64x64_idle_strip_30
+  - first:
+      213: -2136747485712418501
+    second: verdant_portal_64x64_idle_strip_31
+  - first:
+      213: 5015687727093458399
+    second: verdant_portal_64x64_idle_strip_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ee98d6ad85c600800000000000000
+      internalID: 487951882377945540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2217268dc150156d0800000000000000
+      internalID: -3003613855031856862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a3225d9f191750800000000000000
+      internalID: 6276082316265890293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9b1c61eec93a9b0800000000000000
+      internalID: -5070036209091102253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c20bc50492c4e30800000000000000
+      internalID: 4489008284991237148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71243b072f149c00800000000000000
+      internalID: 906383677560463740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0d63d41073de930800000000000000
+      internalID: 4174052908372250877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644398d88b0d8ba90800000000000000
+      internalID: -7297853705086749626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3c34dd53cac340800000000000000
+      internalID: 4884931553596815917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588739b3119f9d80800000000000000
+      internalID: -8241709279166887853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d4588e6b5ceaca0800000000000000
+      internalID: -6003643863862522532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd2efeaca0692890800000000000000
+      internalID: -7482343011112833542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da5271c6e8cfd60800000000000000
+      internalID: 7925366039161187717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97e479d6afa64a0800000000000000
+      internalID: -6599186955361158730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e986a9d7f8dcd0800000000000000
+      internalID: -2533002276221884842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8569679f2a4b4e30800000000000000
+      internalID: 4488763021869016462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9406f167c89e6d720800000000000000
+      internalID: 2870738601981730889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad2c3694af23e480800000000000000
+      internalID: -8871194457048076881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 55
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab1c72a86509850800000000000000
+      internalID: 6381695823356476088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02b9b29e408d590800000000000000
+      internalID: -7649358567583309624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 55
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d027912745d7b2370800000000000000
+      internalID: 8298864540005265933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_21
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92594b7fa06ef3e0800000000000000
+      internalID: -2018069276211457378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef269bb1c19a5d50800000000000000
+      internalID: 6726849254693154787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc7dd955364a6cd0800000000000000
+      internalID: -2564159842879177508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91acb80473288e30800000000000000
+      internalID: 4505890408453939614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39987d53c393f20800000000000000
+      internalID: 3402817195402171339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d42b4555951cea0800000000000000
+      internalID: -5854299817576870512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd369489909c6d60800000000000000
+      internalID: 7884836036647730672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fc628201900c40800000000000000
+      internalID: 5476536586846662999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf1f2d29756cb70800000000000000
+      internalID: 8918912400169761698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2d512d63e7ba90800000000000000
+      internalID: -7298114613279904536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f6639b7fb852e0800000000000000
+      internalID: -2136747485712418501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_portal_64x64_idle_strip_32
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd521bdd96d4b9540800000000000000
+      internalID: 5015687727093458399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verdant_portal_64x64_idle_strip_0: 487951882377945540
+      verdant_portal_64x64_idle_strip_1: -3003613855031856862
+      verdant_portal_64x64_idle_strip_10: -6003643863862522532
+      verdant_portal_64x64_idle_strip_11: -7482343011112833542
+      verdant_portal_64x64_idle_strip_12: 7925366039161187717
+      verdant_portal_64x64_idle_strip_13: -6599186955361158730
+      verdant_portal_64x64_idle_strip_14: -2533002276221884842
+      verdant_portal_64x64_idle_strip_15: 4488763021869016462
+      verdant_portal_64x64_idle_strip_16: 2870738601981730889
+      verdant_portal_64x64_idle_strip_17: -8871194457048076881
+      verdant_portal_64x64_idle_strip_18: 6381695823356476088
+      verdant_portal_64x64_idle_strip_19: -7649358567583309624
+      verdant_portal_64x64_idle_strip_2: 6276082316265890293
+      verdant_portal_64x64_idle_strip_20: 8298864540005265933
+      verdant_portal_64x64_idle_strip_21: -2018069276211457378
+      verdant_portal_64x64_idle_strip_22: 6726849254693154787
+      verdant_portal_64x64_idle_strip_23: -2564159842879177508
+      verdant_portal_64x64_idle_strip_24: 4505890408453939614
+      verdant_portal_64x64_idle_strip_25: 3402817195402171339
+      verdant_portal_64x64_idle_strip_26: -5854299817576870512
+      verdant_portal_64x64_idle_strip_27: 7884836036647730672
+      verdant_portal_64x64_idle_strip_28: 5476536586846662999
+      verdant_portal_64x64_idle_strip_29: 8918912400169761698
+      verdant_portal_64x64_idle_strip_3: -5070036209091102253
+      verdant_portal_64x64_idle_strip_30: -7298114613279904536
+      verdant_portal_64x64_idle_strip_31: -2136747485712418501
+      verdant_portal_64x64_idle_strip_32: 5015687727093458399
+      verdant_portal_64x64_idle_strip_4: 4489008284991237148
+      verdant_portal_64x64_idle_strip_5: 906383677560463740
+      verdant_portal_64x64_idle_strip_6: 4174052908372250877
+      verdant_portal_64x64_idle_strip_7: -7297853705086749626
+      verdant_portal_64x64_idle_strip_8: 4884931553596815917
+      verdant_portal_64x64_idle_strip_9: -8241709279166887853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

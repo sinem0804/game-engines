@@ -1,0 +1,3031 @@
+fileFormatVersion: 2
+guid: e5df4f5af5bb04f1f8f6d09c7ecc724a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8660263154860256037
+    second: ember_runes_32x32_sheet_0
+  - first:
+      213: 727407925355912449
+    second: ember_runes_32x32_sheet_1
+  - first:
+      213: -8883166980506483143
+    second: ember_runes_32x32_sheet_2
+  - first:
+      213: -5269334577056856948
+    second: ember_runes_32x32_sheet_3
+  - first:
+      213: -2165100196421017673
+    second: ember_runes_32x32_sheet_4
+  - first:
+      213: 1803389453944873748
+    second: ember_runes_32x32_sheet_5
+  - first:
+      213: -1788101649775576246
+    second: ember_runes_32x32_sheet_6
+  - first:
+      213: 6260305068629863240
+    second: ember_runes_32x32_sheet_7
+  - first:
+      213: -7312954521055048948
+    second: ember_runes_32x32_sheet_8
+  - first:
+      213: -4228511835118985360
+    second: ember_runes_32x32_sheet_9
+  - first:
+      213: -4740599824755338115
+    second: ember_runes_32x32_sheet_10
+  - first:
+      213: -9038642190870497830
+    second: ember_runes_32x32_sheet_11
+  - first:
+      213: -2192141066480713372
+    second: ember_runes_32x32_sheet_12
+  - first:
+      213: -7762857090753385547
+    second: ember_runes_32x32_sheet_13
+  - first:
+      213: -3467019349318361562
+    second: ember_runes_32x32_sheet_14
+  - first:
+      213: 5023583270217032940
+    second: ember_runes_32x32_sheet_15
+  - first:
+      213: -5074277990140747704
+    second: ember_runes_32x32_sheet_16
+  - first:
+      213: 5269835828884727672
+    second: ember_runes_32x32_sheet_17
+  - first:
+      213: 1584716951117956471
+    second: ember_runes_32x32_sheet_18
+  - first:
+      213: -7461600383133699451
+    second: ember_runes_32x32_sheet_19
+  - first:
+      213: -3678810585201419927
+    second: ember_runes_32x32_sheet_20
+  - first:
+      213: -2808627250716792761
+    second: ember_runes_32x32_sheet_21
+  - first:
+      213: 5364958912905110564
+    second: ember_runes_32x32_sheet_22
+  - first:
+      213: 8876886370803131138
+    second: ember_runes_32x32_sheet_23
+  - first:
+      213: -6258764296680651546
+    second: ember_runes_32x32_sheet_24
+  - first:
+      213: 8953547828292629279
+    second: ember_runes_32x32_sheet_25
+  - first:
+      213: -182578818884204742
+    second: ember_runes_32x32_sheet_26
+  - first:
+      213: -167522348183752754
+    second: ember_runes_32x32_sheet_27
+  - first:
+      213: -2500642232908394519
+    second: ember_runes_32x32_sheet_28
+  - first:
+      213: 111329640606021833
+    second: ember_runes_32x32_sheet_29
+  - first:
+      213: 3107843547265134079
+    second: ember_runes_32x32_sheet_30
+  - first:
+      213: -8527069171974488922
+    second: ember_runes_32x32_sheet_31
+  - first:
+      213: -2450365909653394104
+    second: ember_runes_32x32_sheet_32
+  - first:
+      213: 7709197292351898958
+    second: ember_runes_32x32_sheet_33
+  - first:
+      213: 7177915910104106246
+    second: ember_runes_32x32_sheet_34
+  - first:
+      213: 5440669393970696086
+    second: ember_runes_32x32_sheet_35
+  - first:
+      213: -6341441970971979662
+    second: ember_runes_32x32_sheet_36
+  - first:
+      213: 6564434173963990069
+    second: ember_runes_32x32_sheet_37
+  - first:
+      213: -1045297080028572665
+    second: ember_runes_32x32_sheet_38
+  - first:
+      213: 1493781104488018956
+    second: ember_runes_32x32_sheet_39
+  - first:
+      213: 8049989331778138576
+    second: ember_runes_32x32_sheet_40
+  - first:
+      213: 2520313502475160730
+    second: ember_runes_32x32_sheet_41
+  - first:
+      213: -1823154547778726341
+    second: ember_runes_32x32_sheet_42
+  - first:
+      213: -7106532066692756435
+    second: ember_runes_32x32_sheet_43
+  - first:
+      213: 6493748829429689278
+    second: ember_runes_32x32_sheet_44
+  - first:
+      213: -1251145344516245983
+    second: ember_runes_32x32_sheet_45
+  - first:
+      213: 3657889543605765455
+    second: ember_runes_32x32_sheet_46
+  - first:
+      213: -3990743883194362025
+    second: ember_runes_32x32_sheet_47
+  - first:
+      213: -6268717365558492058
+    second: ember_runes_32x32_sheet_48
+  - first:
+      213: 1177890992545705126
+    second: ember_runes_32x32_sheet_49
+  - first:
+      213: -1973874603573125255
+    second: ember_runes_32x32_sheet_50
+  - first:
+      213: 4642699314917132277
+    second: ember_runes_32x32_sheet_51
+  - first:
+      213: -5684490568763802624
+    second: ember_runes_32x32_sheet_52
+  - first:
+      213: 6369484828582866013
+    second: ember_runes_32x32_sheet_53
+  - first:
+      213: -7239748328144241459
+    second: ember_runes_32x32_sheet_54
+  - first:
+      213: -7516812945193394323
+    second: ember_runes_32x32_sheet_55
+  - first:
+      213: -3207477704386010926
+    second: ember_runes_32x32_sheet_56
+  - first:
+      213: 2472599614732948632
+    second: ember_runes_32x32_sheet_57
+  - first:
+      213: 2995059973027600695
+    second: ember_runes_32x32_sheet_58
+  - first:
+      213: 8290924541512198435
+    second: ember_runes_32x32_sheet_59
+  - first:
+      213: 5788315489406635950
+    second: ember_runes_32x32_sheet_60
+  - first:
+      213: -3940068800879048594
+    second: ember_runes_32x32_sheet_61
+  - first:
+      213: 4568136512204162720
+    second: ember_runes_32x32_sheet_62
+  - first:
+      213: -2852826081032467860
+    second: ember_runes_32x32_sheet_63
+  - first:
+      213: -7614916371165342209
+    second: ember_runes_32x32_sheet_64
+  - first:
+      213: -112117129944423531
+    second: ember_runes_32x32_sheet_65
+  - first:
+      213: -2380550390260177152
+    second: ember_runes_32x32_sheet_66
+  - first:
+      213: 3856010678681562166
+    second: ember_runes_32x32_sheet_67
+  - first:
+      213: 8027326642470781383
+    second: ember_runes_32x32_sheet_68
+  - first:
+      213: 8921153468764591343
+    second: ember_runes_32x32_sheet_69
+  - first:
+      213: 1702607774151160517
+    second: ember_runes_32x32_sheet_70
+  - first:
+      213: 1314977563206459954
+    second: ember_runes_32x32_sheet_71
+  - first:
+      213: -7346200047775971776
+    second: ember_runes_32x32_sheet_72
+  - first:
+      213: 4522591620596906830
+    second: ember_runes_32x32_sheet_73
+  - first:
+      213: 8537145491944364154
+    second: ember_runes_32x32_sheet_74
+  - first:
+      213: 6654649045256714207
+    second: ember_runes_32x32_sheet_75
+  - first:
+      213: 2567221228589810291
+    second: ember_runes_32x32_sheet_76
+  - first:
+      213: -2376779254143540940
+    second: ember_runes_32x32_sheet_77
+  - first:
+      213: 847077651576950436
+    second: ember_runes_32x32_sheet_78
+  - first:
+      213: 639231358325902430
+    second: ember_runes_32x32_sheet_79
+  - first:
+      213: -2550981652303864620
+    second: ember_runes_32x32_sheet_80
+  - first:
+      213: 6214018488177838974
+    second: ember_runes_32x32_sheet_81
+  - first:
+      213: 5982398835237862039
+    second: ember_runes_32x32_sheet_82
+  - first:
+      213: -6306092967952176139
+    second: ember_runes_32x32_sheet_83
+  - first:
+      213: -8086843478334241170
+    second: ember_runes_32x32_sheet_84
+  - first:
+      213: -3743206537843644431
+    second: ember_runes_32x32_sheet_85
+  - first:
+      213: 7024957901455515986
+    second: ember_runes_32x32_sheet_86
+  - first:
+      213: 2795555799238563639
+    second: ember_runes_32x32_sheet_87
+  - first:
+      213: 1942578095116145483
+    second: ember_runes_32x32_sheet_88
+  - first:
+      213: -4971259667105681731
+    second: ember_runes_32x32_sheet_89
+  - first:
+      213: 4863026112414352819
+    second: ember_runes_32x32_sheet_90
+  - first:
+      213: -4320223018112273593
+    second: ember_runes_32x32_sheet_91
+  - first:
+      213: -6390308590484489179
+    second: ember_runes_32x32_sheet_92
+  - first:
+      213: -7771519461005435174
+    second: ember_runes_32x32_sheet_93
+  - first:
+      213: -8846963463733297004
+    second: ember_runes_32x32_sheet_94
+  - first:
+      213: -5153425483621103375
+    second: ember_runes_32x32_sheet_95
+  - first:
+      213: 1974554521950830753
+    second: ember_runes_32x32_sheet_96
+  - first:
+      213: -6584290392107073185
+    second: ember_runes_32x32_sheet_97
+  - first:
+      213: -7312965494041788799
+    second: ember_runes_32x32_sheet_98
+  - first:
+      213: -7645666722570140630
+    second: ember_runes_32x32_sheet_99
+  - first:
+      213: 844502936961565372
+    second: ember_runes_32x32_sheet_100
+  - first:
+      213: 4799412880418975205
+    second: ember_runes_32x32_sheet_101
+  - first:
+      213: 1130527127606998925
+    second: ember_runes_32x32_sheet_102
+  - first:
+      213: 5440294735248428529
+    second: ember_runes_32x32_sheet_103
+  - first:
+      213: -3035216232298896328
+    second: ember_runes_32x32_sheet_104
+  - first:
+      213: 5175090259490869072
+    second: ember_runes_32x32_sheet_105
+  - first:
+      213: 6959216110638690559
+    second: ember_runes_32x32_sheet_106
+  - first:
+      213: -7884169875601037906
+    second: ember_runes_32x32_sheet_107
+  - first:
+      213: -8966785633176108001
+    second: ember_runes_32x32_sheet_108
+  - first:
+      213: -3998418050608676423
+    second: ember_runes_32x32_sheet_109
+  - first:
+      213: 2160861313851225372
+    second: ember_runes_32x32_sheet_110
+  - first:
+      213: 4289016787507298930
+    second: ember_runes_32x32_sheet_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b69de847f6f2870800000000000000
+      internalID: 8660263154860256037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 353
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d94a577a5481a00800000000000000
+      internalID: 727407925355912449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9368e6e32b6a8b480800000000000000
+      internalID: -8883166980506483143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c7dbce109fd6b0800000000000000
+      internalID: -5269334577056856948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 353
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5231b7d404f1e0800000000000000
+      internalID: -2165100196421017673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e112572de60910800000000000000
+      internalID: 1803389453944873748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 352
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b36d6f5036f27e0800000000000000
+      internalID: -1788101649775576246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba2499a4211e650800000000000000
+      internalID: 6260305068629863240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4de9db9a238a90800000000000000
+      internalID: -7312954521055048948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f923bb3ee4155c0800000000000000
+      internalID: -4228511835118985360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 352
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74dd2f7391063eb0800000000000000
+      internalID: -4740599824755338115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53e41f0da409280800000000000000
+      internalID: -9038642190870497830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 353
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4610fd28053f391e0800000000000000
+      internalID: -2192141066480713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bba587fa9ac44490800000000000000
+      internalID: -7762857090753385547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e1976554ca2efc0800000000000000
+      internalID: -3467019349318361562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4a1e04e5a57b540800000000000000
+      internalID: 5023583270217032940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 321
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e31a7d0b8499b0800000000000000
+      internalID: -5074277990140747704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ec4df3c7322940800000000000000
+      internalID: 5269835828884727672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7750decbbab0ef510800000000000000
+      internalID: 1584716951117956471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b56b1cf1137890800000000000000
+      internalID: -7461600383133699451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 321
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9695f11934d32fcc0800000000000000
+      internalID: -3678810585201419927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7482b8e6560c509d0800000000000000
+      internalID: -2808627250716792761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424664ed4b9247a40800000000000000
+      internalID: 5364958912905110564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032a3b5f19013b70800000000000000
+      internalID: 8876886370803131138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c37358076429a0800000000000000
+      internalID: -6258764296680651546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 290
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133ad8df44614c70800000000000000
+      internalID: 8953547828292629279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3785e41889577df0800000000000000
+      internalID: -182578818884204742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6198df47dcadf0800000000000000
+      internalID: -167522348183752754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 259
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc72d532feb4dd0800000000000000
+      internalID: -2500642232908394519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c83b41e7b58b8100800000000000000
+      internalID: 111329640606021833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd6a3c7d37412b20800000000000000
+      internalID: 3107843547265134079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 259
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb64534c3c9a980800000000000000
+      internalID: -8527069171974488922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de161103d8efdd0800000000000000
+      internalID: -2450365909653394104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c902a7129cfa60800000000000000
+      internalID: 7709197292351898958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60541617d741d9360800000000000000
+      internalID: 7177915910104106246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f86f7ecf3218b40800000000000000
+      internalID: 5440669393970696086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 258
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705674302caef7a0800000000000000
+      internalID: -6341441970971979662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534fe82f91e891b50800000000000000
+      internalID: 6564434173963990069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d42c08db5e71f0800000000000000
+      internalID: -1045297080028572665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 259
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f239000afab410800000000000000
+      internalID: 1493781104488018956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f15685ae47bf60800000000000000
+      internalID: 8049989331778138576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c07adf6c3f9f220800000000000000
+      internalID: 2520313502475160730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 226
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d209299ad2b6e0800000000000000
+      internalID: -1823154547778726341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c0bd3ccb6806d90800000000000000
+      internalID: -7106532066692756435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 226
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe3cea72e6e1a50800000000000000
+      internalID: 6493748829429689278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 240
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b9b120f903aee0800000000000000
+      internalID: -1251145344516245983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45cc3ad82f63c230800000000000000
+      internalID: 3657889543605765455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 225
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75713a405970e98c0800000000000000
+      internalID: -3990743883194362025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 239
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644094e4ca0109a0800000000000000
+      internalID: -6268717365558492058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 239
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca1d2fd95b85010800000000000000
+      internalID: 1177890992545705126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 225
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdbde81836b94e0800000000000000
+      internalID: -1973874603573125255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 239
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7c598cd6e2e6040800000000000000
+      internalID: 4642699314917132277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c76c702f1ac11b0800000000000000
+      internalID: -5684490568763802624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cebe164b4f46850800000000000000
+      internalID: 6369484828582866013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 239
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccfbbdd04f378b90800000000000000
+      internalID: -7239748328144241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f90beb37aeea790800000000000000
+      internalID: -7516812945193394323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d026159500cc73d0800000000000000
+      internalID: -3207477704386010926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894dcebcf30705220800000000000000
+      internalID: 2472599614732948632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 226
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7391d4d4d27909920800000000000000
+      internalID: 2995059973027600695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329276c71f74f0370800000000000000
+      internalID: 8290924541512198435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf49f1154a345050800000000000000
+      internalID: 5788315489406635950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68410d0d401259c0800000000000000
+      internalID: -3940068800879048594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6cb6f64f7456f30800000000000000
+      internalID: 4568136512204162720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a07125bc9b868d0800000000000000
+      internalID: -2852826081032467860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5126ee7e1625690800000000000000
+      internalID: -7614916371165342209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932d68701ea17ef0800000000000000
+      internalID: -112117129944423531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007ef92680696fed0800000000000000
+      internalID: -2380550390260177152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6de0484d438530800000000000000
+      internalID: 3856010678681562166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1008cfc0bc66f60800000000000000
+      internalID: 8027326642470781383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4157440dd4ecb70800000000000000
+      internalID: 8921153468764591343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c23912ffb0e0a710800000000000000
+      internalID: 1702607774151160517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a78e602dbf3210800000000000000
+      internalID: 1314977563206459954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460b577afd0d0a90800000000000000
+      internalID: -7346200047775971776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b36d10e1973ce30800000000000000
+      internalID: 4522591620596906830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78db2bd7980a7670800000000000000
+      internalID: 8537145491944364154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73b6f7c001a5c50800000000000000
+      internalID: 6654649045256714207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 132
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37200fd0b1a90a320800000000000000
+      internalID: 2567221228589810291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a14f6cdbf30fd0800000000000000
+      internalID: -2376779254143540940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8a67d2ac61cb00800000000000000
+      internalID: 847077651576950436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 132
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4e4a98810fd800800000000000000
+      internalID: 639231358325902430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc93e1f3b7199cd0800000000000000
+      internalID: -2550981652303864620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bcc8744e0ac3650800000000000000
+      internalID: 6214018488177838974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a30176b00c50350800000000000000
+      internalID: 5982398835237862039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2f945bd14c78a0800000000000000
+      internalID: -6306092967952176139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6604bfc3b2c5cf80800000000000000
+      internalID: -8086843478334241170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e8e67c757d0cc0800000000000000
+      internalID: -3743206537843644431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516456ddf9ad7160800000000000000
+      internalID: 7024957901455515986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d56b103fcbc620800000000000000
+      internalID: 2795555799238563639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b435adb3c7c65fa10800000000000000
+      internalID: 1942578095116145483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe60ffeba9820bb0800000000000000
+      internalID: -4971259667105681731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b508ebdb70fc7340800000000000000
+      internalID: 4863026112414352819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b3f6fd0c7b04c0800000000000000
+      internalID: -4320223018112273593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7b0bb1301157a0800000000000000
+      internalID: -6390308590484489179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5cb9b934062490800000000000000
+      internalID: -7771519461005435174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490415b5a95493580800000000000000
+      internalID: -8846963463733297004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f88150a3da5b78b0800000000000000
+      internalID: -5153425483621103375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0458640e6076b10800000000000000
+      internalID: 1974554521950830753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c07006c6ef94a0800000000000000
+      internalID: -6584290392107073185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e33f001a0238a90800000000000000
+      internalID: -7312965494041788799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a248e22df9225e590800000000000000
+      internalID: -7645666722570140630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24e5162f648bb00800000000000000
+      internalID: 844502936961565372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edaecb1690fa9240800000000000000
+      internalID: 4799412880418975205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8735f9ce6070bf00800000000000000
+      internalID: 1130527127606998925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd09efdc3fcf7b40800000000000000
+      internalID: 5440294735248428529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83423510beeb0e5d0800000000000000
+      internalID: -3035216232298896328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f89851c2d91d740800000000000000
+      internalID: 5175090259490869072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff07bcd5e2a149060800000000000000
+      internalID: 6959216110638690559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5e6ff254dc59290800000000000000
+      internalID: -7884169875601037906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14467589f39f8380800000000000000
+      internalID: -8966785633176108001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1c5fda7f3c288c0800000000000000
+      internalID: -3998418050608676423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c157cfc8aebecfd10800000000000000
+      internalID: 2160861313851225372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_runes_32x32_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2724f074b06a58b30800000000000000
+      internalID: 4289016787507298930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ember_runes_32x32_sheet_0: 8660263154860256037
+      ember_runes_32x32_sheet_1: 727407925355912449
+      ember_runes_32x32_sheet_10: -4740599824755338115
+      ember_runes_32x32_sheet_100: 844502936961565372
+      ember_runes_32x32_sheet_101: 4799412880418975205
+      ember_runes_32x32_sheet_102: 1130527127606998925
+      ember_runes_32x32_sheet_103: 5440294735248428529
+      ember_runes_32x32_sheet_104: -3035216232298896328
+      ember_runes_32x32_sheet_105: 5175090259490869072
+      ember_runes_32x32_sheet_106: 6959216110638690559
+      ember_runes_32x32_sheet_107: -7884169875601037906
+      ember_runes_32x32_sheet_108: -8966785633176108001
+      ember_runes_32x32_sheet_109: -3998418050608676423
+      ember_runes_32x32_sheet_11: -9038642190870497830
+      ember_runes_32x32_sheet_110: 2160861313851225372
+      ember_runes_32x32_sheet_111: 4289016787507298930
+      ember_runes_32x32_sheet_12: -2192141066480713372
+      ember_runes_32x32_sheet_13: -7762857090753385547
+      ember_runes_32x32_sheet_14: -3467019349318361562
+      ember_runes_32x32_sheet_15: 5023583270217032940
+      ember_runes_32x32_sheet_16: -5074277990140747704
+      ember_runes_32x32_sheet_17: 5269835828884727672
+      ember_runes_32x32_sheet_18: 1584716951117956471
+      ember_runes_32x32_sheet_19: -7461600383133699451
+      ember_runes_32x32_sheet_2: -8883166980506483143
+      ember_runes_32x32_sheet_20: -3678810585201419927
+      ember_runes_32x32_sheet_21: -2808627250716792761
+      ember_runes_32x32_sheet_22: 5364958912905110564
+      ember_runes_32x32_sheet_23: 8876886370803131138
+      ember_runes_32x32_sheet_24: -6258764296680651546
+      ember_runes_32x32_sheet_25: 8953547828292629279
+      ember_runes_32x32_sheet_26: -182578818884204742
+      ember_runes_32x32_sheet_27: -167522348183752754
+      ember_runes_32x32_sheet_28: -2500642232908394519
+      ember_runes_32x32_sheet_29: 111329640606021833
+      ember_runes_32x32_sheet_3: -5269334577056856948
+      ember_runes_32x32_sheet_30: 3107843547265134079
+      ember_runes_32x32_sheet_31: -8527069171974488922
+      ember_runes_32x32_sheet_32: -2450365909653394104
+      ember_runes_32x32_sheet_33: 7709197292351898958
+      ember_runes_32x32_sheet_34: 7177915910104106246
+      ember_runes_32x32_sheet_35: 5440669393970696086
+      ember_runes_32x32_sheet_36: -6341441970971979662
+      ember_runes_32x32_sheet_37: 6564434173963990069
+      ember_runes_32x32_sheet_38: -1045297080028572665
+      ember_runes_32x32_sheet_39: 1493781104488018956
+      ember_runes_32x32_sheet_4: -2165100196421017673
+      ember_runes_32x32_sheet_40: 8049989331778138576
+      ember_runes_32x32_sheet_41: 2520313502475160730
+      ember_runes_32x32_sheet_42: -1823154547778726341
+      ember_runes_32x32_sheet_43: -7106532066692756435
+      ember_runes_32x32_sheet_44: 6493748829429689278
+      ember_runes_32x32_sheet_45: -1251145344516245983
+      ember_runes_32x32_sheet_46: 3657889543605765455
+      ember_runes_32x32_sheet_47: -3990743883194362025
+      ember_runes_32x32_sheet_48: -6268717365558492058
+      ember_runes_32x32_sheet_49: 1177890992545705126
+      ember_runes_32x32_sheet_5: 1803389453944873748
+      ember_runes_32x32_sheet_50: -1973874603573125255
+      ember_runes_32x32_sheet_51: 4642699314917132277
+      ember_runes_32x32_sheet_52: -5684490568763802624
+      ember_runes_32x32_sheet_53: 6369484828582866013
+      ember_runes_32x32_sheet_54: -7239748328144241459
+      ember_runes_32x32_sheet_55: -7516812945193394323
+      ember_runes_32x32_sheet_56: -3207477704386010926
+      ember_runes_32x32_sheet_57: 2472599614732948632
+      ember_runes_32x32_sheet_58: 2995059973027600695
+      ember_runes_32x32_sheet_59: 8290924541512198435
+      ember_runes_32x32_sheet_6: -1788101649775576246
+      ember_runes_32x32_sheet_60: 5788315489406635950
+      ember_runes_32x32_sheet_61: -3940068800879048594
+      ember_runes_32x32_sheet_62: 4568136512204162720
+      ember_runes_32x32_sheet_63: -2852826081032467860
+      ember_runes_32x32_sheet_64: -7614916371165342209
+      ember_runes_32x32_sheet_65: -112117129944423531
+      ember_runes_32x32_sheet_66: -2380550390260177152
+      ember_runes_32x32_sheet_67: 3856010678681562166
+      ember_runes_32x32_sheet_68: 8027326642470781383
+      ember_runes_32x32_sheet_69: 8921153468764591343
+      ember_runes_32x32_sheet_7: 6260305068629863240
+      ember_runes_32x32_sheet_70: 1702607774151160517
+      ember_runes_32x32_sheet_71: 1314977563206459954
+      ember_runes_32x32_sheet_72: -7346200047775971776
+      ember_runes_32x32_sheet_73: 4522591620596906830
+      ember_runes_32x32_sheet_74: 8537145491944364154
+      ember_runes_32x32_sheet_75: 6654649045256714207
+      ember_runes_32x32_sheet_76: 2567221228589810291
+      ember_runes_32x32_sheet_77: -2376779254143540940
+      ember_runes_32x32_sheet_78: 847077651576950436
+      ember_runes_32x32_sheet_79: 639231358325902430
+      ember_runes_32x32_sheet_8: -7312954521055048948
+      ember_runes_32x32_sheet_80: -2550981652303864620
+      ember_runes_32x32_sheet_81: 6214018488177838974
+      ember_runes_32x32_sheet_82: 5982398835237862039
+      ember_runes_32x32_sheet_83: -6306092967952176139
+      ember_runes_32x32_sheet_84: -8086843478334241170
+      ember_runes_32x32_sheet_85: -3743206537843644431
+      ember_runes_32x32_sheet_86: 7024957901455515986
+      ember_runes_32x32_sheet_87: 2795555799238563639
+      ember_runes_32x32_sheet_88: 1942578095116145483
+      ember_runes_32x32_sheet_89: -4971259667105681731
+      ember_runes_32x32_sheet_9: -4228511835118985360
+      ember_runes_32x32_sheet_90: 4863026112414352819
+      ember_runes_32x32_sheet_91: -4320223018112273593
+      ember_runes_32x32_sheet_92: -6390308590484489179
+      ember_runes_32x32_sheet_93: -7771519461005435174
+      ember_runes_32x32_sheet_94: -8846963463733297004
+      ember_runes_32x32_sheet_95: -5153425483621103375
+      ember_runes_32x32_sheet_96: 1974554521950830753
+      ember_runes_32x32_sheet_97: -6584290392107073185
+      ember_runes_32x32_sheet_98: -7312965494041788799
+      ember_runes_32x32_sheet_99: -7645666722570140630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

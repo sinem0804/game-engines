@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 56cc22bea22334f0ebf814457f80fc95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4438899439296803245
+    second: tide_portal_128x128_idle_strip_0
+  - first:
+      213: 1502900461048278858
+    second: tide_portal_128x128_idle_strip_1
+  - first:
+      213: -7331657993602983711
+    second: tide_portal_128x128_idle_strip_2
+  - first:
+      213: -1322345046765327298
+    second: tide_portal_128x128_idle_strip_3
+  - first:
+      213: 7240713262468784484
+    second: tide_portal_128x128_idle_strip_4
+  - first:
+      213: 1333048015697155217
+    second: tide_portal_128x128_idle_strip_5
+  - first:
+      213: 8136318330514675723
+    second: tide_portal_128x128_idle_strip_6
+  - first:
+      213: 6321402567206900906
+    second: tide_portal_128x128_idle_strip_7
+  - first:
+      213: 879914855833663843
+    second: tide_portal_128x128_idle_strip_8
+  - first:
+      213: 5626675821573218412
+    second: tide_portal_128x128_idle_strip_9
+  - first:
+      213: -4278567634247544652
+    second: tide_portal_128x128_idle_strip_10
+  - first:
+      213: 3941419479256409904
+    second: tide_portal_128x128_idle_strip_11
+  - first:
+      213: 2424537651880155990
+    second: tide_portal_128x128_idle_strip_12
+  - first:
+      213: -2523268470512068229
+    second: tide_portal_128x128_idle_strip_13
+  - first:
+      213: -4048535432153866798
+    second: tide_portal_128x128_idle_strip_14
+  - first:
+      213: -5039451787721704176
+    second: tide_portal_128x128_idle_strip_15
+  - first:
+      213: -5883315667169439479
+    second: tide_portal_128x128_idle_strip_16
+  - first:
+      213: 3184011325249599307
+    second: tide_portal_128x128_idle_strip_17
+  - first:
+      213: -4229287694583390613
+    second: tide_portal_128x128_idle_strip_18
+  - first:
+      213: -7951036752818958174
+    second: tide_portal_128x128_idle_strip_19
+  - first:
+      213: 6276712122581044570
+    second: tide_portal_128x128_idle_strip_20
+  - first:
+      213: -689604169568398660
+    second: tide_portal_128x128_idle_strip_21
+  - first:
+      213: -8647560599582426611
+    second: tide_portal_128x128_idle_strip_22
+  - first:
+      213: 8053175086908736258
+    second: tide_portal_128x128_idle_strip_23
+  - first:
+      213: 4708410584389891289
+    second: tide_portal_128x128_idle_strip_24
+  - first:
+      213: 9065774398361479574
+    second: tide_portal_128x128_idle_strip_25
+  - first:
+      213: -882365784600856164
+    second: tide_portal_128x128_idle_strip_26
+  - first:
+      213: -3801253680990597286
+    second: tide_portal_128x128_idle_strip_27
+  - first:
+      213: 647726511694455178
+    second: tide_portal_128x128_idle_strip_28
+  - first:
+      213: 816590231136798434
+    second: tide_portal_128x128_idle_strip_29
+  - first:
+      213: 6244168312063800059
+    second: tide_portal_128x128_idle_strip_30
+  - first:
+      213: -4963341031013918821
+    second: tide_portal_128x128_idle_strip_31
+  - first:
+      213: 6799866340029567543
+    second: tide_portal_128x128_idle_strip_32
+  - first:
+      213: 6396068252189816920
+    second: tide_portal_128x128_idle_strip_33
+  - first:
+      213: 8975204939648800121
+    second: tide_portal_128x128_idle_strip_34
+  - first:
+      213: 5888752368950699220
+    second: tide_portal_128x128_idle_strip_35
+  - first:
+      213: -47692900987953506
+    second: tide_portal_128x128_idle_strip_36
+  - first:
+      213: -5667229668108469578
+    second: tide_portal_128x128_idle_strip_37
+  - first:
+      213: 5484686990170435322
+    second: tide_portal_128x128_idle_strip_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da177f095832a9d30800000000000000
+      internalID: 4438899439296803245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fad81b1006bd410800000000000000
+      internalID: 1502900461048278858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e814ac46e7b04a90800000000000000
+      internalID: -7331657993602983711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c2e01af2616ade0800000000000000
+      internalID: -1322345046765327298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46169e9695e2c7460800000000000000
+      internalID: 7240713262468784484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 120
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1941b248b10ff7210800000000000000
+      internalID: 1333048015697155217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0893ddd9620ae070800000000000000
+      internalID: 8136318330514675723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa41c9484222ab750800000000000000
+      internalID: 6321402567206900906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 7
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369fd8e36e5163c00800000000000000
+      internalID: 879914855833663843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a62b29d7f51e40800000000000000
+      internalID: 5626675821573218412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_10
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0113dc7697f94c0800000000000000
+      internalID: -4278567634247544652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 7
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03722e3422cb2b630800000000000000
+      internalID: 3941419479256409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 7
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b50ec0620b5a120800000000000000
+      internalID: 2424537651880155990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 6
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795f26e1bc8bfcd0800000000000000
+      internalID: -2523268470512068229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 6
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddd2e97976b0d7c0800000000000000
+      internalID: -4048535432153866798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_15
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df32a9c45401ab0800000000000000
+      internalID: -5039451787721704176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_16
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90110e462934a5ea0800000000000000
+      internalID: -5883315667169439479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 120
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b2524e61ef2c20800000000000000
+      internalID: 3184011325249599307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_18
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e1d6fdf3d8e45c0800000000000000
+      internalID: -4229287694583390613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a09620233e38a190800000000000000
+      internalID: -7951036752818958174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dc4d78b6c5b1750800000000000000
+      internalID: 6276712122581044570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_21
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb25f3559a80e66f0800000000000000
+      internalID: -689604169568398660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_22
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab9309371bdf780800000000000000
+      internalID: -8647560599582426611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038831f210a2cf60800000000000000
+      internalID: 8053175086908736258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4bf33fa72a75140800000000000000
+      internalID: 4708410584389891289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699aa2468c910dd70800000000000000
+      internalID: 9065774398361479574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_26
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9938ee6ef431c3f0800000000000000
+      internalID: -882365784600856164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc863caeb3f3bc0800000000000000
+      internalID: -3801253680990597286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a621a4df2df800800000000000000
+      internalID: 647726511694455178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_29
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e686fd1d7c155b00800000000000000
+      internalID: 816590231136798434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2305e2ffdb7a650800000000000000
+      internalID: 6244168312063800059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b975b4311abae1bb0800000000000000
+      internalID: -4963341031013918821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321995b86afd5e50800000000000000
+      internalID: 6799866340029567543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_33
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8587de2003663c850800000000000000
+      internalID: 6396068252189816920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975191607555e8c70800000000000000
+      internalID: 8975204939648800121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4eb81641d09b150800000000000000
+      internalID: 5888752368950699220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_36
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1e4a2f8f865ff0800000000000000
+      internalID: -47692900987953506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_37
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baf6d3a4a4f951b0800000000000000
+      internalID: -5667229668108469578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_128x128_idle_strip_38
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea05922c58d1c40800000000000000
+      internalID: 5484686990170435322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tide_portal_128x128_idle_strip_0: 4438899439296803245
+      tide_portal_128x128_idle_strip_1: 1502900461048278858
+      tide_portal_128x128_idle_strip_10: -4278567634247544652
+      tide_portal_128x128_idle_strip_11: 3941419479256409904
+      tide_portal_128x128_idle_strip_12: 2424537651880155990
+      tide_portal_128x128_idle_strip_13: -2523268470512068229
+      tide_portal_128x128_idle_strip_14: -4048535432153866798
+      tide_portal_128x128_idle_strip_15: -5039451787721704176
+      tide_portal_128x128_idle_strip_16: -5883315667169439479
+      tide_portal_128x128_idle_strip_17: 3184011325249599307
+      tide_portal_128x128_idle_strip_18: -4229287694583390613
+      tide_portal_128x128_idle_strip_19: -7951036752818958174
+      tide_portal_128x128_idle_strip_2: -7331657993602983711
+      tide_portal_128x128_idle_strip_20: 6276712122581044570
+      tide_portal_128x128_idle_strip_21: -689604169568398660
+      tide_portal_128x128_idle_strip_22: -8647560599582426611
+      tide_portal_128x128_idle_strip_23: 8053175086908736258
+      tide_portal_128x128_idle_strip_24: 4708410584389891289
+      tide_portal_128x128_idle_strip_25: 9065774398361479574
+      tide_portal_128x128_idle_strip_26: -882365784600856164
+      tide_portal_128x128_idle_strip_27: -3801253680990597286
+      tide_portal_128x128_idle_strip_28: 647726511694455178
+      tide_portal_128x128_idle_strip_29: 816590231136798434
+      tide_portal_128x128_idle_strip_3: -1322345046765327298
+      tide_portal_128x128_idle_strip_30: 6244168312063800059
+      tide_portal_128x128_idle_strip_31: -4963341031013918821
+      tide_portal_128x128_idle_strip_32: 6799866340029567543
+      tide_portal_128x128_idle_strip_33: 6396068252189816920
+      tide_portal_128x128_idle_strip_34: 8975204939648800121
+      tide_portal_128x128_idle_strip_35: 5888752368950699220
+      tide_portal_128x128_idle_strip_36: -47692900987953506
+      tide_portal_128x128_idle_strip_37: -5667229668108469578
+      tide_portal_128x128_idle_strip_38: 5484686990170435322
+      tide_portal_128x128_idle_strip_4: 7240713262468784484
+      tide_portal_128x128_idle_strip_5: 1333048015697155217
+      tide_portal_128x128_idle_strip_6: 8136318330514675723
+      tide_portal_128x128_idle_strip_7: 6321402567206900906
+      tide_portal_128x128_idle_strip_8: 879914855833663843
+      tide_portal_128x128_idle_strip_9: 5626675821573218412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

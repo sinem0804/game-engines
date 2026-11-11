@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 63d851692ef684c62a861ea2b03f76c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3350649360961449001
+    second: tide_rune_circle_64x64_sheet_0
+  - first:
+      213: -1399496740903673420
+    second: tide_rune_circle_64x64_sheet_1
+  - first:
+      213: -7638420637650121148
+    second: tide_rune_circle_64x64_sheet_2
+  - first:
+      213: -1528128996667342385
+    second: tide_rune_circle_64x64_sheet_3
+  - first:
+      213: 8799756208343997870
+    second: tide_rune_circle_64x64_sheet_4
+  - first:
+      213: 1294373310424661428
+    second: tide_rune_circle_64x64_sheet_5
+  - first:
+      213: -5235649899957719062
+    second: tide_rune_circle_64x64_sheet_6
+  - first:
+      213: -8096194282371644852
+    second: tide_rune_circle_64x64_sheet_7
+  - first:
+      213: 4530284287887892547
+    second: tide_rune_circle_64x64_sheet_8
+  - first:
+      213: 4285381916487379353
+    second: tide_rune_circle_64x64_sheet_9
+  - first:
+      213: 7151853991178114097
+    second: tide_rune_circle_64x64_sheet_10
+  - first:
+      213: -60375354905463880
+    second: tide_rune_circle_64x64_sheet_11
+  - first:
+      213: -4123932651563290841
+    second: tide_rune_circle_64x64_sheet_12
+  - first:
+      213: -4513725665239687009
+    second: tide_rune_circle_64x64_sheet_13
+  - first:
+      213: 8320910648684144093
+    second: tide_rune_circle_64x64_sheet_14
+  - first:
+      213: 1484509176509271247
+    second: tide_rune_circle_64x64_sheet_15
+  - first:
+      213: 192826489312038816
+    second: tide_rune_circle_64x64_sheet_16
+  - first:
+      213: 8216481578662516073
+    second: tide_rune_circle_64x64_sheet_17
+  - first:
+      213: -2361006350128449667
+    second: tide_rune_circle_64x64_sheet_18
+  - first:
+      213: 640662002278466829
+    second: tide_rune_circle_64x64_sheet_19
+  - first:
+      213: -1423317146421426632
+    second: tide_rune_circle_64x64_sheet_20
+  - first:
+      213: 1312299589651828735
+    second: tide_rune_circle_64x64_sheet_21
+  - first:
+      213: 5607826135656600269
+    second: tide_rune_circle_64x64_sheet_22
+  - first:
+      213: -2609051505465266772
+    second: tide_rune_circle_64x64_sheet_23
+  - first:
+      213: -2329327703203597928
+    second: tide_rune_circle_64x64_sheet_24
+  - first:
+      213: -5625993036790884236
+    second: tide_rune_circle_64x64_sheet_25
+  - first:
+      213: -6214571951095969477
+    second: tide_rune_circle_64x64_sheet_26
+  - first:
+      213: 3144869171395855618
+    second: tide_rune_circle_64x64_sheet_27
+  - first:
+      213: -8281498193688918920
+    second: tide_rune_circle_64x64_sheet_28
+  - first:
+      213: -8499864830354379504
+    second: tide_rune_circle_64x64_sheet_29
+  - first:
+      213: -8631417982620825726
+    second: tide_rune_circle_64x64_sheet_30
+  - first:
+      213: -7718343894998633281
+    second: tide_rune_circle_64x64_sheet_31
+  - first:
+      213: 4104536881257835380
+    second: tide_rune_circle_64x64_sheet_32
+  - first:
+      213: 3791857795515279211
+    second: tide_rune_circle_64x64_sheet_33
+  - first:
+      213: -8228088555332286017
+    second: tide_rune_circle_64x64_sheet_34
+  - first:
+      213: 1331934018976359035
+    second: tide_rune_circle_64x64_sheet_35
+  - first:
+      213: -604548949958672227
+    second: tide_rune_circle_64x64_sheet_36
+  - first:
+      213: 6966790439683206446
+    second: tide_rune_circle_64x64_sheet_37
+  - first:
+      213: 2565540279694263598
+    second: tide_rune_circle_64x64_sheet_38
+  - first:
+      213: 4864176055616320163
+    second: tide_rune_circle_64x64_sheet_39
+  - first:
+      213: -6611827935461998093
+    second: tide_rune_circle_64x64_sheet_40
+  - first:
+      213: -3418410479860913897
+    second: tide_rune_circle_64x64_sheet_41
+  - first:
+      213: 1906303712825912308
+    second: tide_rune_circle_64x64_sheet_42
+  - first:
+      213: -4143764570682470818
+    second: tide_rune_circle_64x64_sheet_43
+  - first:
+      213: -9057011818450129456
+    second: tide_rune_circle_64x64_sheet_44
+  - first:
+      213: 5029899012101842158
+    second: tide_rune_circle_64x64_sheet_45
+  - first:
+      213: -3176972552376101410
+    second: tide_rune_circle_64x64_sheet_46
+  - first:
+      213: 1072231430808333608
+    second: tide_rune_circle_64x64_sheet_47
+  - first:
+      213: 1353954597275742703
+    second: tide_rune_circle_64x64_sheet_48
+  - first:
+      213: 2463979369591185491
+    second: tide_rune_circle_64x64_sheet_49
+  - first:
+      213: -1620164845744261369
+    second: tide_rune_circle_64x64_sheet_50
+  - first:
+      213: 3660681450675011642
+    second: tide_rune_circle_64x64_sheet_51
+  - first:
+      213: 112588585870891231
+    second: tide_rune_circle_64x64_sheet_52
+  - first:
+      213: 6329605302624564077
+    second: tide_rune_circle_64x64_sheet_53
+  - first:
+      213: -9009507303216454725
+    second: tide_rune_circle_64x64_sheet_54
+  - first:
+      213: 1855956605045450973
+    second: tide_rune_circle_64x64_sheet_55
+  - first:
+      213: -8120462743871384978
+    second: tide_rune_circle_64x64_sheet_56
+  - first:
+      213: -5630698291255473725
+    second: tide_rune_circle_64x64_sheet_57
+  - first:
+      213: -9198196113174832300
+    second: tide_rune_circle_64x64_sheet_58
+  - first:
+      213: 5028530685492941416
+    second: tide_rune_circle_64x64_sheet_59
+  - first:
+      213: -3147106244789842122
+    second: tide_rune_circle_64x64_sheet_60
+  - first:
+      213: -2029912328610225456
+    second: tide_rune_circle_64x64_sheet_61
+  - first:
+      213: -8647242039883048208
+    second: tide_rune_circle_64x64_sheet_62
+  - first:
+      213: 3420070791637948639
+    second: tide_rune_circle_64x64_sheet_63
+  - first:
+      213: -1683586106713067194
+    second: tide_rune_circle_64x64_sheet_64
+  - first:
+      213: 5601150720672685751
+    second: tide_rune_circle_64x64_sheet_65
+  - first:
+      213: -3058995531845267800
+    second: tide_rune_circle_64x64_sheet_66
+  - first:
+      213: -107245744941959043
+    second: tide_rune_circle_64x64_sheet_67
+  - first:
+      213: -6811729163023836290
+    second: tide_rune_circle_64x64_sheet_68
+  - first:
+      213: -7747511609136792298
+    second: tide_rune_circle_64x64_sheet_69
+  - first:
+      213: 3424231884793768209
+    second: tide_rune_circle_64x64_sheet_70
+  - first:
+      213: -4936364795596434275
+    second: tide_rune_circle_64x64_sheet_71
+  - first:
+      213: -4048757562453306503
+    second: tide_rune_circle_64x64_sheet_72
+  - first:
+      213: 6736629350352836303
+    second: tide_rune_circle_64x64_sheet_73
+  - first:
+      213: 4342795852650780330
+    second: tide_rune_circle_64x64_sheet_74
+  - first:
+      213: 297843326967017341
+    second: tide_rune_circle_64x64_sheet_75
+  - first:
+      213: -7709407480583891358
+    second: tide_rune_circle_64x64_sheet_76
+  - first:
+      213: -31714065003378843
+    second: tide_rune_circle_64x64_sheet_77
+  - first:
+      213: 7369077928158128622
+    second: tide_rune_circle_64x64_sheet_78
+  - first:
+      213: -3514384579506274568
+    second: tide_rune_circle_64x64_sheet_79
+  - first:
+      213: 2630747748169240427
+    second: tide_rune_circle_64x64_sheet_80
+  - first:
+      213: 1401050790838525599
+    second: tide_rune_circle_64x64_sheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c2ffe57d5ef7e20800000000000000
+      internalID: 3350649360961449001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1ae16012df39ce0800000000000000
+      internalID: -1399496740903673420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e0adf66e0eef590800000000000000
+      internalID: -7638420637650121148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc14bae16cefacae0800000000000000
+      internalID: -1528128996667342385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd16cf5a30f1a70800000000000000
+      internalID: 8799756208343997870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdbb9efaa986f110800000000000000
+      internalID: 1294373310424661428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefe5b8d72c3757b0800000000000000
+      internalID: -5235649899957719062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4280b6123a84af80800000000000000
+      internalID: -8096194282371644852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340671fae8dcede30800000000000000
+      internalID: 4530284287887892547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ec1be52cb87b30800000000000000
+      internalID: 4285381916487379353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13491a5105d704360800000000000000
+      internalID: 7151853991178114097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3fba14fe0892ff0800000000000000
+      internalID: -60375354905463880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f6fe95a19d4c6c0800000000000000
+      internalID: -4123932651563290841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9023d51c660c51c0800000000000000
+      internalID: -4513725665239687009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5659e1620d97370800000000000000
+      internalID: 8320910648684144093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc84a31b390a9410800000000000000
+      internalID: 1484509176509271247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afcabe9bae0da200800000000000000
+      internalID: 192826489312038816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96558b7867ec60270800000000000000
+      internalID: 8216481578662516073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f624db350c3fd0800000000000000
+      internalID: -2361006350128449667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0506ea52b614e800800000000000000
+      internalID: 640662002278466829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83604dca89c5f3ce0800000000000000
+      internalID: -1423317146421426632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 9
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff86102689363210800000000000000
+      internalID: 1312299589651828735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc296f9a82003dd40800000000000000
+      internalID: 5607826135656600269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6b08aa79cacbd0800000000000000
+      internalID: -2609051505465266772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b2159bc09cafd0800000000000000
+      internalID: -2329327703203597928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478124d04257ce1b0800000000000000
+      internalID: -5625993036790884236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 8
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3981d79cb761c9a0800000000000000
+      internalID: -6214571951095969477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205802269d1d4ab20800000000000000
+      internalID: 3144869171395855618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87402252545321d80800000000000000
+      internalID: -8281498193688918920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d24e398f96a0a80800000000000000
+      internalID: -8499864830354379504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 11
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28787f5731b073880800000000000000
+      internalID: -8631417982620825726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43d4cfe1fe2e490800000000000000
+      internalID: -7718343894998633281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47becd6fb8e36f830800000000000000
+      internalID: 4104536881257835380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67eb7c23926f9430800000000000000
+      internalID: 3791857795515279211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb946fe9d05ffcd80800000000000000
+      internalID: -8228088555332286017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 11
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b722851feeafb7210800000000000000
+      internalID: 1331934018976359035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90c06cdee53c97f0800000000000000
+      internalID: -604548949958672227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da7e54ef20fa060800000000000000
+      internalID: 6966790439683206446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e250224aa41aa9320800000000000000
+      internalID: 2565540279694263598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b8ffd956018340800000000000000
+      internalID: 4864176055616320163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 40
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f188ce06811e34a0800000000000000
+      internalID: -6611827935461998093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ea63b7cd5f80d0800000000000000
+      internalID: -3418410479860913897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2ff4702d847a10800000000000000
+      internalID: 1906303712825912308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 9
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e4f9bd3146e76c0800000000000000
+      internalID: -4143764570682470818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde3cabcb70f4280800000000000000
+      internalID: -9057011818450129456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42b60808acdc540800000000000000
+      internalID: 5029899012101842158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d472cb4029e3d0800000000000000
+      internalID: -3176972552376101410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82de65e2ec451ee00800000000000000
+      internalID: 1072231430808333608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b0ac58863ac210800000000000000
+      internalID: 1353954597275742703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 11
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350af529e20d13220800000000000000
+      internalID: 2463979369591185491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 10
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70776d328a40489e0800000000000000
+      internalID: -1620164845744261369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30885f526a5dc230800000000000000
+      internalID: 3660681450675011642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8199ae8beff8100800000000000000
+      internalID: 112588585870891231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bd5fac7647d750800000000000000
+      internalID: 6329605302624564077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ee7697dcc7f280800000000000000
+      internalID: -9009507303216454725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82642f2bea1c910800000000000000
+      internalID: 1855956605045450973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 10
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6290c398225e4f80800000000000000
+      internalID: -8120462743871384978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 11
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98150acbdbbd1b0800000000000000
+      internalID: -5630698291255473725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bd5d38e51795080800000000000000
+      internalID: -9198196113174832300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 40
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86255f2240ee8c540800000000000000
+      internalID: 5028530685492941416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f43e06b8b3354d0800000000000000
+      internalID: -3147106244789842122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26008fd7d44d3e0800000000000000
+      internalID: -2029912328610225456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa52f50e23def780800000000000000
+      internalID: -8647242039883048208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 9
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8d442c348867f20800000000000000
+      internalID: 3420070791637948639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b5902b53b2a8e0800000000000000
+      internalID: -1683586106713067194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be5e1f77e84bbd40800000000000000
+      internalID: 5601150720672685751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 40
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0bd265c34c85d0800000000000000
+      internalID: -3058995531845267800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78ff0d209cf28ef0800000000000000
+      internalID: -107245744941959043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 40
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b9bc39a60e771a0800000000000000
+      internalID: -6811729163023836290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 24
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbf245d3f4b7490800000000000000
+      internalID: -7747511609136792298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 9
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119e2b1c1c0558f20800000000000000
+      internalID: 3424231884793768209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941bb45f528e7bb0800000000000000
+      internalID: -4936364795596434275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9735b4cb27cefc7c0800000000000000
+      internalID: -4048757562453306503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65043b3b05d7d50800000000000000
+      internalID: 6736629350352836303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61a41a1d5b44c30800000000000000
+      internalID: 4342795852650780330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe6968de6222400800000000000000
+      internalID: 297843326967017341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266de0b1ebea20590800000000000000
+      internalID: -7709407480583891358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670715d9345f8ff0800000000000000
+      internalID: -31714065003378843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee969062559344660800000000000000
+      internalID: 7369077928158128622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fefa6e48d56a3fc0800000000000000
+      internalID: -3514384579506274568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f494f732b428420800000000000000
+      internalID: 2630747748169240427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_rune_circle_64x64_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed53c6548817310800000000000000
+      internalID: 1401050790838525599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tide_rune_circle_64x64_sheet_0: 3350649360961449001
+      tide_rune_circle_64x64_sheet_1: -1399496740903673420
+      tide_rune_circle_64x64_sheet_10: 7151853991178114097
+      tide_rune_circle_64x64_sheet_11: -60375354905463880
+      tide_rune_circle_64x64_sheet_12: -4123932651563290841
+      tide_rune_circle_64x64_sheet_13: -4513725665239687009
+      tide_rune_circle_64x64_sheet_14: 8320910648684144093
+      tide_rune_circle_64x64_sheet_15: 1484509176509271247
+      tide_rune_circle_64x64_sheet_16: 192826489312038816
+      tide_rune_circle_64x64_sheet_17: 8216481578662516073
+      tide_rune_circle_64x64_sheet_18: -2361006350128449667
+      tide_rune_circle_64x64_sheet_19: 640662002278466829
+      tide_rune_circle_64x64_sheet_2: -7638420637650121148
+      tide_rune_circle_64x64_sheet_20: -1423317146421426632
+      tide_rune_circle_64x64_sheet_21: 1312299589651828735
+      tide_rune_circle_64x64_sheet_22: 5607826135656600269
+      tide_rune_circle_64x64_sheet_23: -2609051505465266772
+      tide_rune_circle_64x64_sheet_24: -2329327703203597928
+      tide_rune_circle_64x64_sheet_25: -5625993036790884236
+      tide_rune_circle_64x64_sheet_26: -6214571951095969477
+      tide_rune_circle_64x64_sheet_27: 3144869171395855618
+      tide_rune_circle_64x64_sheet_28: -8281498193688918920
+      tide_rune_circle_64x64_sheet_29: -8499864830354379504
+      tide_rune_circle_64x64_sheet_3: -1528128996667342385
+      tide_rune_circle_64x64_sheet_30: -8631417982620825726
+      tide_rune_circle_64x64_sheet_31: -7718343894998633281
+      tide_rune_circle_64x64_sheet_32: 4104536881257835380
+      tide_rune_circle_64x64_sheet_33: 3791857795515279211
+      tide_rune_circle_64x64_sheet_34: -8228088555332286017
+      tide_rune_circle_64x64_sheet_35: 1331934018976359035
+      tide_rune_circle_64x64_sheet_36: -604548949958672227
+      tide_rune_circle_64x64_sheet_37: 6966790439683206446
+      tide_rune_circle_64x64_sheet_38: 2565540279694263598
+      tide_rune_circle_64x64_sheet_39: 4864176055616320163
+      tide_rune_circle_64x64_sheet_4: 8799756208343997870
+      tide_rune_circle_64x64_sheet_40: -6611827935461998093
+      tide_rune_circle_64x64_sheet_41: -3418410479860913897
+      tide_rune_circle_64x64_sheet_42: 1906303712825912308
+      tide_rune_circle_64x64_sheet_43: -4143764570682470818
+      tide_rune_circle_64x64_sheet_44: -9057011818450129456
+      tide_rune_circle_64x64_sheet_45: 5029899012101842158
+      tide_rune_circle_64x64_sheet_46: -3176972552376101410
+      tide_rune_circle_64x64_sheet_47: 1072231430808333608
+      tide_rune_circle_64x64_sheet_48: 1353954597275742703
+      tide_rune_circle_64x64_sheet_49: 2463979369591185491
+      tide_rune_circle_64x64_sheet_5: 1294373310424661428
+      tide_rune_circle_64x64_sheet_50: -1620164845744261369
+      tide_rune_circle_64x64_sheet_51: 3660681450675011642
+      tide_rune_circle_64x64_sheet_52: 112588585870891231
+      tide_rune_circle_64x64_sheet_53: 6329605302624564077
+      tide_rune_circle_64x64_sheet_54: -9009507303216454725
+      tide_rune_circle_64x64_sheet_55: 1855956605045450973
+      tide_rune_circle_64x64_sheet_56: -8120462743871384978
+      tide_rune_circle_64x64_sheet_57: -5630698291255473725
+      tide_rune_circle_64x64_sheet_58: -9198196113174832300
+      tide_rune_circle_64x64_sheet_59: 5028530685492941416
+      tide_rune_circle_64x64_sheet_6: -5235649899957719062
+      tide_rune_circle_64x64_sheet_60: -3147106244789842122
+      tide_rune_circle_64x64_sheet_61: -2029912328610225456
+      tide_rune_circle_64x64_sheet_62: -8647242039883048208
+      tide_rune_circle_64x64_sheet_63: 3420070791637948639
+      tide_rune_circle_64x64_sheet_64: -1683586106713067194
+      tide_rune_circle_64x64_sheet_65: 5601150720672685751
+      tide_rune_circle_64x64_sheet_66: -3058995531845267800
+      tide_rune_circle_64x64_sheet_67: -107245744941959043
+      tide_rune_circle_64x64_sheet_68: -6811729163023836290
+      tide_rune_circle_64x64_sheet_69: -7747511609136792298
+      tide_rune_circle_64x64_sheet_7: -8096194282371644852
+      tide_rune_circle_64x64_sheet_70: 3424231884793768209
+      tide_rune_circle_64x64_sheet_71: -4936364795596434275
+      tide_rune_circle_64x64_sheet_72: -4048757562453306503
+      tide_rune_circle_64x64_sheet_73: 6736629350352836303
+      tide_rune_circle_64x64_sheet_74: 4342795852650780330
+      tide_rune_circle_64x64_sheet_75: 297843326967017341
+      tide_rune_circle_64x64_sheet_76: -7709407480583891358
+      tide_rune_circle_64x64_sheet_77: -31714065003378843
+      tide_rune_circle_64x64_sheet_78: 7369077928158128622
+      tide_rune_circle_64x64_sheet_79: -3514384579506274568
+      tide_rune_circle_64x64_sheet_8: 4530284287887892547
+      tide_rune_circle_64x64_sheet_80: 2630747748169240427
+      tide_rune_circle_64x64_sheet_81: 1401050790838525599
+      tide_rune_circle_64x64_sheet_9: 4285381916487379353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

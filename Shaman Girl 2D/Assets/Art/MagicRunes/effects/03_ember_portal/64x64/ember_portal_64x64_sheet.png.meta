@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 23d6f899e83664a84b0cba9cd9202a6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7277261814884705135
+    second: ember_portal_64x64_sheet_0
+  - first:
+      213: 2670638414978130504
+    second: ember_portal_64x64_sheet_1
+  - first:
+      213: -7260101266878357716
+    second: ember_portal_64x64_sheet_2
+  - first:
+      213: 2748479604336599260
+    second: ember_portal_64x64_sheet_3
+  - first:
+      213: 7534412341042795047
+    second: ember_portal_64x64_sheet_4
+  - first:
+      213: 1227635620334745586
+    second: ember_portal_64x64_sheet_5
+  - first:
+      213: -1275368405470840097
+    second: ember_portal_64x64_sheet_6
+  - first:
+      213: 690234675237501710
+    second: ember_portal_64x64_sheet_7
+  - first:
+      213: -1841845036376764457
+    second: ember_portal_64x64_sheet_8
+  - first:
+      213: 3571495788159523441
+    second: ember_portal_64x64_sheet_9
+  - first:
+      213: -3248182040072297990
+    second: ember_portal_64x64_sheet_10
+  - first:
+      213: 5676648359693887927
+    second: ember_portal_64x64_sheet_11
+  - first:
+      213: 7540165884963796551
+    second: ember_portal_64x64_sheet_12
+  - first:
+      213: 2869970328159432803
+    second: ember_portal_64x64_sheet_13
+  - first:
+      213: 7551766835188041978
+    second: ember_portal_64x64_sheet_14
+  - first:
+      213: -4862765626985456507
+    second: ember_portal_64x64_sheet_15
+  - first:
+      213: -4670628265502095172
+    second: ember_portal_64x64_sheet_16
+  - first:
+      213: -8195213614930155945
+    second: ember_portal_64x64_sheet_17
+  - first:
+      213: -607423963182003012
+    second: ember_portal_64x64_sheet_18
+  - first:
+      213: 5493199156288720662
+    second: ember_portal_64x64_sheet_19
+  - first:
+      213: -172345750313715555
+    second: ember_portal_64x64_sheet_20
+  - first:
+      213: -6680059691745473979
+    second: ember_portal_64x64_sheet_21
+  - first:
+      213: 1638578898433995154
+    second: ember_portal_64x64_sheet_22
+  - first:
+      213: -3457065279140490996
+    second: ember_portal_64x64_sheet_23
+  - first:
+      213: 138483967048265154
+    second: ember_portal_64x64_sheet_24
+  - first:
+      213: 7120989951540408073
+    second: ember_portal_64x64_sheet_25
+  - first:
+      213: -1811520661602793599
+    second: ember_portal_64x64_sheet_26
+  - first:
+      213: 8033879082133971193
+    second: ember_portal_64x64_sheet_27
+  - first:
+      213: -3110516712972369315
+    second: ember_portal_64x64_sheet_28
+  - first:
+      213: 945792575960778828
+    second: ember_portal_64x64_sheet_29
+  - first:
+      213: -54342314750557420
+    second: ember_portal_64x64_sheet_30
+  - first:
+      213: 3184835443491917680
+    second: ember_portal_64x64_sheet_31
+  - first:
+      213: -2271682519532285542
+    second: ember_portal_64x64_sheet_32
+  - first:
+      213: -1476762659883383083
+    second: ember_portal_64x64_sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a7b560170ef460800000000000000
+      internalID: 7277261814884705135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a8402d73001520800000000000000
+      internalID: 2670638414978130504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 137
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f1a5a0d50fe3b90800000000000000
+      internalID: -7260101266878357716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0a3e853af842620800000000000000
+      internalID: 2748479604336599260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 136
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722dc2bea1c9f8860800000000000000
+      internalID: 7534412341042795047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 128
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73ba7a710790110800000000000000
+      internalID: 1227635620334745586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7722413bfc4ee0800000000000000
+      internalID: -1275368405470840097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3035b7c4349900800000000000000
+      internalID: 690234675237501710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 128
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df427ba2b37076e0800000000000000
+      internalID: -1841845036376764457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 128
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5d0a2f70809130800000000000000
+      internalID: 3571495788159523441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 128
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1efa7e4a32ce2d0800000000000000
+      internalID: -3248182040072297990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ab526b9187ce40800000000000000
+      internalID: 5676648359693887927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74639c04cec04a860800000000000000
+      internalID: 7540165884963796551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360bad5cece24d720800000000000000
+      internalID: 2869970328159432803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af885f5fce34dc860800000000000000
+      internalID: 7551766835188041978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5d812d6cf38cb0800000000000000
+      internalID: -4862765626985456507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb849dca6589e2fb0800000000000000
+      internalID: -4670628265502095172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a4a723a0c44e80800000000000000
+      internalID: -8195213614930155945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0a7eaf1ff197f0800000000000000
+      internalID: -607423963182003012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f80174783cb3c40800000000000000
+      internalID: 5493199156288720662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b0060474bb9df0800000000000000
+      internalID: -172345750313715555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a0b135a19ab43a0800000000000000
+      internalID: -6680059691745473979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 64
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291fb9993d66db610800000000000000
+      internalID: 1638578898433995154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019e77e1790600d0800000000000000
+      internalID: -3457065279140490996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdaffe2f6efbe100800000000000000
+      internalID: 138483967048265154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f21bed1a6d2d260800000000000000
+      internalID: 7120989951540408073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18782ed5e8f2cd6e0800000000000000
+      internalID: -1811520661602793599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0690bb5721e7f60800000000000000
+      internalID: 8033879082133971193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 17
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52cd5f978935d4d0800000000000000
+      internalID: -3110516712972369315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4808593651202d00800000000000000
+      internalID: 945792575960778828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134501e3ffee3ff0800000000000000
+      internalID: -54342314750557420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 18
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc86d36fec23c20800000000000000
+      internalID: 3184835443491917680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 24
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9150dcc8cc5970e0800000000000000
+      internalID: -2271682519532285542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ember_portal_64x64_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d607106f2c718be0800000000000000
+      internalID: -1476762659883383083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ember_portal_64x64_sheet_0: 7277261814884705135
+      ember_portal_64x64_sheet_1: 2670638414978130504
+      ember_portal_64x64_sheet_10: -3248182040072297990
+      ember_portal_64x64_sheet_11: 5676648359693887927
+      ember_portal_64x64_sheet_12: 7540165884963796551
+      ember_portal_64x64_sheet_13: 2869970328159432803
+      ember_portal_64x64_sheet_14: 7551766835188041978
+      ember_portal_64x64_sheet_15: -4862765626985456507
+      ember_portal_64x64_sheet_16: -4670628265502095172
+      ember_portal_64x64_sheet_17: -8195213614930155945
+      ember_portal_64x64_sheet_18: -607423963182003012
+      ember_portal_64x64_sheet_19: 5493199156288720662
+      ember_portal_64x64_sheet_2: -7260101266878357716
+      ember_portal_64x64_sheet_20: -172345750313715555
+      ember_portal_64x64_sheet_21: -6680059691745473979
+      ember_portal_64x64_sheet_22: 1638578898433995154
+      ember_portal_64x64_sheet_23: -3457065279140490996
+      ember_portal_64x64_sheet_24: 138483967048265154
+      ember_portal_64x64_sheet_25: 7120989951540408073
+      ember_portal_64x64_sheet_26: -1811520661602793599
+      ember_portal_64x64_sheet_27: 8033879082133971193
+      ember_portal_64x64_sheet_28: -3110516712972369315
+      ember_portal_64x64_sheet_29: 945792575960778828
+      ember_portal_64x64_sheet_3: 2748479604336599260
+      ember_portal_64x64_sheet_30: -54342314750557420
+      ember_portal_64x64_sheet_31: 3184835443491917680
+      ember_portal_64x64_sheet_32: -2271682519532285542
+      ember_portal_64x64_sheet_33: -1476762659883383083
+      ember_portal_64x64_sheet_4: 7534412341042795047
+      ember_portal_64x64_sheet_5: 1227635620334745586
+      ember_portal_64x64_sheet_6: -1275368405470840097
+      ember_portal_64x64_sheet_7: 690234675237501710
+      ember_portal_64x64_sheet_8: -1841845036376764457
+      ember_portal_64x64_sheet_9: 3571495788159523441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

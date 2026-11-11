@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 09d932fed093f446bba860818470a3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 976724402020844042
+    second: arcane_portal_128x128_open_strip_0
+  - first:
+      213: -9123069854628111789
+    second: arcane_portal_128x128_open_strip_1
+  - first:
+      213: 89483684726313355
+    second: arcane_portal_128x128_open_strip_2
+  - first:
+      213: 6146699933333952927
+    second: arcane_portal_128x128_open_strip_3
+  - first:
+      213: 1723133542041197434
+    second: arcane_portal_128x128_open_strip_4
+  - first:
+      213: -789532976687652635
+    second: arcane_portal_128x128_open_strip_5
+  - first:
+      213: -922966336631162869
+    second: arcane_portal_128x128_open_strip_6
+  - first:
+      213: 3780420704195699762
+    second: arcane_portal_128x128_open_strip_7
+  - first:
+      213: 1682354131124033408
+    second: arcane_portal_128x128_open_strip_8
+  - first:
+      213: 4107578435396476275
+    second: arcane_portal_128x128_open_strip_9
+  - first:
+      213: -202003121785316110
+    second: arcane_portal_128x128_open_strip_10
+  - first:
+      213: 1822156866108650938
+    second: arcane_portal_128x128_open_strip_11
+  - first:
+      213: -573320626375966631
+    second: arcane_portal_128x128_open_strip_12
+  - first:
+      213: 3661559566390696579
+    second: arcane_portal_128x128_open_strip_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0288e13ba50e8d00800000000000000
+      internalID: 976724402020844042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a11d5ad48546180800000000000000
+      internalID: -9123069854628111789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b811e49efe8ed3100800000000000000
+      internalID: 89483684726313355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 18
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f999943d5077d4550800000000000000
+      internalID: 6146699933333952927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b1de1b3dcc9e710800000000000000
+      internalID: 1723133542041197434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 19
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0631ad0f30b05f0800000000000000
+      internalID: -789532976687652635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b475c107f033f0800000000000000
+      internalID: -922966336631162869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 4
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ed17d990c67430800000000000000
+      internalID: 3780420704195699762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871f043b2ce85710800000000000000
+      internalID: 1682354131124033408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 4
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d9cd8f2dc010930800000000000000
+      internalID: 4107578435396476275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 4
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc57722b37523df0800000000000000
+      internalID: -202003121785316110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 4
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f179f30a994910800000000000000
+      internalID: 1822156866108650938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c47a8de72b08f0800000000000000
+      internalID: -573320626375966631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_portal_128x128_open_strip_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a96ae960970d230800000000000000
+      internalID: 3661559566390696579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arcane_portal_128x128_open_strip_0: 976724402020844042
+      arcane_portal_128x128_open_strip_1: -9123069854628111789
+      arcane_portal_128x128_open_strip_10: -202003121785316110
+      arcane_portal_128x128_open_strip_11: 1822156866108650938
+      arcane_portal_128x128_open_strip_12: -573320626375966631
+      arcane_portal_128x128_open_strip_13: 3661559566390696579
+      arcane_portal_128x128_open_strip_2: 89483684726313355
+      arcane_portal_128x128_open_strip_3: 6146699933333952927
+      arcane_portal_128x128_open_strip_4: 1723133542041197434
+      arcane_portal_128x128_open_strip_5: -789532976687652635
+      arcane_portal_128x128_open_strip_6: -922966336631162869
+      arcane_portal_128x128_open_strip_7: 3780420704195699762
+      arcane_portal_128x128_open_strip_8: 1682354131124033408
+      arcane_portal_128x128_open_strip_9: 4107578435396476275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

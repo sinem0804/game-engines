@@ -1,0 +1,3915 @@
+fileFormatVersion: 2
+guid: 0fbf41395a783479a8b628e9686c73dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6210791631517699575
+    second: verdant_runes_64x64_sheet_0
+  - first:
+      213: -2506613013565279344
+    second: verdant_runes_64x64_sheet_1
+  - first:
+      213: -8276331290918407341
+    second: verdant_runes_64x64_sheet_2
+  - first:
+      213: 8461234021061586925
+    second: verdant_runes_64x64_sheet_3
+  - first:
+      213: -1970479618555956489
+    second: verdant_runes_64x64_sheet_4
+  - first:
+      213: 217702119707400713
+    second: verdant_runes_64x64_sheet_5
+  - first:
+      213: -6791774295123044320
+    second: verdant_runes_64x64_sheet_6
+  - first:
+      213: -8888302981816647805
+    second: verdant_runes_64x64_sheet_7
+  - first:
+      213: -3905250798916719880
+    second: verdant_runes_64x64_sheet_8
+  - first:
+      213: -6683998607857812015
+    second: verdant_runes_64x64_sheet_9
+  - first:
+      213: -9115400700315470195
+    second: verdant_runes_64x64_sheet_10
+  - first:
+      213: 5974679223710064557
+    second: verdant_runes_64x64_sheet_11
+  - first:
+      213: 1458043077974420734
+    second: verdant_runes_64x64_sheet_12
+  - first:
+      213: 342751745510390020
+    second: verdant_runes_64x64_sheet_13
+  - first:
+      213: -6120923385807632264
+    second: verdant_runes_64x64_sheet_14
+  - first:
+      213: 2632451832247972156
+    second: verdant_runes_64x64_sheet_15
+  - first:
+      213: 22850990575177285
+    second: verdant_runes_64x64_sheet_16
+  - first:
+      213: 5199144387870320797
+    second: verdant_runes_64x64_sheet_17
+  - first:
+      213: -2835163121674907198
+    second: verdant_runes_64x64_sheet_18
+  - first:
+      213: 5696762609946931437
+    second: verdant_runes_64x64_sheet_19
+  - first:
+      213: 5617990780038292069
+    second: verdant_runes_64x64_sheet_20
+  - first:
+      213: -1762082939287170641
+    second: verdant_runes_64x64_sheet_21
+  - first:
+      213: -5185149398663878971
+    second: verdant_runes_64x64_sheet_22
+  - first:
+      213: 936482081022366411
+    second: verdant_runes_64x64_sheet_23
+  - first:
+      213: -1316186974302123654
+    second: verdant_runes_64x64_sheet_24
+  - first:
+      213: -6352222759037747196
+    second: verdant_runes_64x64_sheet_25
+  - first:
+      213: 7284557436313211680
+    second: verdant_runes_64x64_sheet_26
+  - first:
+      213: -6813797904225079487
+    second: verdant_runes_64x64_sheet_27
+  - first:
+      213: -8994168098706239886
+    second: verdant_runes_64x64_sheet_28
+  - first:
+      213: -1114479037205341351
+    second: verdant_runes_64x64_sheet_29
+  - first:
+      213: -1235116388960352386
+    second: verdant_runes_64x64_sheet_30
+  - first:
+      213: -1716730227548349674
+    second: verdant_runes_64x64_sheet_31
+  - first:
+      213: 1171801239798199350
+    second: verdant_runes_64x64_sheet_32
+  - first:
+      213: 3560324273165271541
+    second: verdant_runes_64x64_sheet_33
+  - first:
+      213: 3431524042381252168
+    second: verdant_runes_64x64_sheet_34
+  - first:
+      213: 7194693319788260224
+    second: verdant_runes_64x64_sheet_35
+  - first:
+      213: 7911103656200392441
+    second: verdant_runes_64x64_sheet_36
+  - first:
+      213: -4945565535995009364
+    second: verdant_runes_64x64_sheet_37
+  - first:
+      213: -2727449335750662620
+    second: verdant_runes_64x64_sheet_38
+  - first:
+      213: 8823858006793999663
+    second: verdant_runes_64x64_sheet_39
+  - first:
+      213: 1008660407200297258
+    second: verdant_runes_64x64_sheet_40
+  - first:
+      213: 2101081261597008869
+    second: verdant_runes_64x64_sheet_41
+  - first:
+      213: 5833426580294675663
+    second: verdant_runes_64x64_sheet_42
+  - first:
+      213: -407810564990760926
+    second: verdant_runes_64x64_sheet_43
+  - first:
+      213: -2601129674457887979
+    second: verdant_runes_64x64_sheet_44
+  - first:
+      213: 4885507293873791454
+    second: verdant_runes_64x64_sheet_45
+  - first:
+      213: -6623203051244381298
+    second: verdant_runes_64x64_sheet_46
+  - first:
+      213: -2661115287660481312
+    second: verdant_runes_64x64_sheet_47
+  - first:
+      213: 7091158048306745517
+    second: verdant_runes_64x64_sheet_48
+  - first:
+      213: 2585180135476266632
+    second: verdant_runes_64x64_sheet_49
+  - first:
+      213: -7648261962536504598
+    second: verdant_runes_64x64_sheet_50
+  - first:
+      213: 1708546387816150249
+    second: verdant_runes_64x64_sheet_51
+  - first:
+      213: 8277460512521451611
+    second: verdant_runes_64x64_sheet_52
+  - first:
+      213: -2520923749153835523
+    second: verdant_runes_64x64_sheet_53
+  - first:
+      213: 6356009380518538235
+    second: verdant_runes_64x64_sheet_54
+  - first:
+      213: 1887974013872172349
+    second: verdant_runes_64x64_sheet_55
+  - first:
+      213: -8393855087418223091
+    second: verdant_runes_64x64_sheet_56
+  - first:
+      213: 5683193472833653832
+    second: verdant_runes_64x64_sheet_57
+  - first:
+      213: 4507946101232669262
+    second: verdant_runes_64x64_sheet_58
+  - first:
+      213: 5068980673864692726
+    second: verdant_runes_64x64_sheet_59
+  - first:
+      213: -2246723481888732579
+    second: verdant_runes_64x64_sheet_60
+  - first:
+      213: 1018919912910124052
+    second: verdant_runes_64x64_sheet_61
+  - first:
+      213: 3359673199867890687
+    second: verdant_runes_64x64_sheet_62
+  - first:
+      213: 175542255671243005
+    second: verdant_runes_64x64_sheet_63
+  - first:
+      213: -3352217315930750955
+    second: verdant_runes_64x64_sheet_64
+  - first:
+      213: -1631082235460911478
+    second: verdant_runes_64x64_sheet_65
+  - first:
+      213: 9101324692810162818
+    second: verdant_runes_64x64_sheet_66
+  - first:
+      213: 5381421659347744735
+    second: verdant_runes_64x64_sheet_67
+  - first:
+      213: -3714665559484402122
+    second: verdant_runes_64x64_sheet_68
+  - first:
+      213: -2743947534388423148
+    second: verdant_runes_64x64_sheet_69
+  - first:
+      213: 664680544555375469
+    second: verdant_runes_64x64_sheet_70
+  - first:
+      213: 4310706730815863355
+    second: verdant_runes_64x64_sheet_71
+  - first:
+      213: 4454753298385239505
+    second: verdant_runes_64x64_sheet_72
+  - first:
+      213: 795317581908360412
+    second: verdant_runes_64x64_sheet_73
+  - first:
+      213: 5367540977745123897
+    second: verdant_runes_64x64_sheet_74
+  - first:
+      213: 3572021357046454268
+    second: verdant_runes_64x64_sheet_75
+  - first:
+      213: -1394571796581345204
+    second: verdant_runes_64x64_sheet_76
+  - first:
+      213: -2735205162360236751
+    second: verdant_runes_64x64_sheet_77
+  - first:
+      213: 6931253103658653668
+    second: verdant_runes_64x64_sheet_78
+  - first:
+      213: 4678249848635296770
+    second: verdant_runes_64x64_sheet_79
+  - first:
+      213: -6040623573581091528
+    second: verdant_runes_64x64_sheet_80
+  - first:
+      213: -6121695523806934594
+    second: verdant_runes_64x64_sheet_81
+  - first:
+      213: -6352647019086964985
+    second: verdant_runes_64x64_sheet_82
+  - first:
+      213: 1839539820298649294
+    second: verdant_runes_64x64_sheet_83
+  - first:
+      213: 4108386559556876420
+    second: verdant_runes_64x64_sheet_84
+  - first:
+      213: -9165845351380734865
+    second: verdant_runes_64x64_sheet_85
+  - first:
+      213: -2909795175183501759
+    second: verdant_runes_64x64_sheet_86
+  - first:
+      213: 6638799607172008046
+    second: verdant_runes_64x64_sheet_87
+  - first:
+      213: 2715968125373101526
+    second: verdant_runes_64x64_sheet_88
+  - first:
+      213: 3680579763713721619
+    second: verdant_runes_64x64_sheet_89
+  - first:
+      213: 6340063133980499646
+    second: verdant_runes_64x64_sheet_90
+  - first:
+      213: 1348555221519705524
+    second: verdant_runes_64x64_sheet_91
+  - first:
+      213: -2731703917658038351
+    second: verdant_runes_64x64_sheet_92
+  - first:
+      213: 7528019330985590058
+    second: verdant_runes_64x64_sheet_93
+  - first:
+      213: 687001966450045393
+    second: verdant_runes_64x64_sheet_94
+  - first:
+      213: 8154349604430226235
+    second: verdant_runes_64x64_sheet_95
+  - first:
+      213: -117235614861011780
+    second: verdant_runes_64x64_sheet_96
+  - first:
+      213: -7396982599807808271
+    second: verdant_runes_64x64_sheet_97
+  - first:
+      213: 597484758394662022
+    second: verdant_runes_64x64_sheet_98
+  - first:
+      213: -6326083163525077538
+    second: verdant_runes_64x64_sheet_99
+  - first:
+      213: 7633680431393463321
+    second: verdant_runes_64x64_sheet_100
+  - first:
+      213: 7716916879888749307
+    second: verdant_runes_64x64_sheet_101
+  - first:
+      213: 2214214635665159209
+    second: verdant_runes_64x64_sheet_102
+  - first:
+      213: -514738785039170597
+    second: verdant_runes_64x64_sheet_103
+  - first:
+      213: 2348804054133268436
+    second: verdant_runes_64x64_sheet_104
+  - first:
+      213: -8312846087752718071
+    second: verdant_runes_64x64_sheet_105
+  - first:
+      213: -5318550837094543502
+    second: verdant_runes_64x64_sheet_106
+  - first:
+      213: -7978017695620660250
+    second: verdant_runes_64x64_sheet_107
+  - first:
+      213: -331667358859585635
+    second: verdant_runes_64x64_sheet_108
+  - first:
+      213: 1789322054286046616
+    second: verdant_runes_64x64_sheet_109
+  - first:
+      213: 6695585692674643489
+    second: verdant_runes_64x64_sheet_110
+  - first:
+      213: 8989653059098402948
+    second: verdant_runes_64x64_sheet_111
+  - first:
+      213: -8185431151410241939
+    second: verdant_runes_64x64_sheet_112
+  - first:
+      213: -8679580313363289180
+    second: verdant_runes_64x64_sheet_113
+  - first:
+      213: -2905502887692145226
+    second: verdant_runes_64x64_sheet_114
+  - first:
+      213: -7700311690992827387
+    second: verdant_runes_64x64_sheet_115
+  - first:
+      213: -6502400967631787078
+    second: verdant_runes_64x64_sheet_116
+  - first:
+      213: -3099569044417722251
+    second: verdant_runes_64x64_sheet_117
+  - first:
+      213: -8450012987778124416
+    second: verdant_runes_64x64_sheet_118
+  - first:
+      213: 6106145277583003102
+    second: verdant_runes_64x64_sheet_119
+  - first:
+      213: -5409344126113937439
+    second: verdant_runes_64x64_sheet_120
+  - first:
+      213: -2875903945414582948
+    second: verdant_runes_64x64_sheet_121
+  - first:
+      213: -4390621330133326659
+    second: verdant_runes_64x64_sheet_122
+  - first:
+      213: -4612989679373768314
+    second: verdant_runes_64x64_sheet_123
+  - first:
+      213: 9115241482800138223
+    second: verdant_runes_64x64_sheet_124
+  - first:
+      213: -8362615494052266112
+    second: verdant_runes_64x64_sheet_125
+  - first:
+      213: -1193374312196145187
+    second: verdant_runes_64x64_sheet_126
+  - first:
+      213: 7885385029312786327
+    second: verdant_runes_64x64_sheet_127
+  - first:
+      213: 5223732563897386853
+    second: verdant_runes_64x64_sheet_128
+  - first:
+      213: -6302835227144540275
+    second: verdant_runes_64x64_sheet_129
+  - first:
+      213: -2144685399640439362
+    second: verdant_runes_64x64_sheet_130
+  - first:
+      213: -1193913998427195691
+    second: verdant_runes_64x64_sheet_131
+  - first:
+      213: 7408352817679635155
+    second: verdant_runes_64x64_sheet_132
+  - first:
+      213: -4127404991237609457
+    second: verdant_runes_64x64_sheet_133
+  - first:
+      213: -4759795308096776649
+    second: verdant_runes_64x64_sheet_134
+  - first:
+      213: -8896076762729412577
+    second: verdant_runes_64x64_sheet_135
+  - first:
+      213: 5479191783471139219
+    second: verdant_runes_64x64_sheet_136
+  - first:
+      213: 4621890075838534497
+    second: verdant_runes_64x64_sheet_137
+  - first:
+      213: 1080834662652412606
+    second: verdant_runes_64x64_sheet_138
+  - first:
+      213: 3764783178724499302
+    second: verdant_runes_64x64_sheet_139
+  - first:
+      213: 911044746961416817
+    second: verdant_runes_64x64_sheet_140
+  - first:
+      213: 3062470323681762137
+    second: verdant_runes_64x64_sheet_141
+  - first:
+      213: 6765142082425794923
+    second: verdant_runes_64x64_sheet_142
+  - first:
+      213: 290370043376211736
+    second: verdant_runes_64x64_sheet_143
+  - first:
+      213: 5023167679227760295
+    second: verdant_runes_64x64_sheet_144
+  - first:
+      213: -471360742766653422
+    second: verdant_runes_64x64_sheet_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 737
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc49a251a213650800000000000000
+      internalID: 6210791631517699575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 712
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f119aeb8b63dd0800000000000000
+      internalID: -2506613013565279344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 737
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353bb517a80942d80800000000000000
+      internalID: -8276331290918407341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 737
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def63da33875c6570800000000000000
+      internalID: 8461234021061586925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 711
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f233da1a3377a4e0800000000000000
+      internalID: -1970479618555956489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 737
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5208acee650300800000000000000
+      internalID: 217702119707400713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 735
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028df805345ceb1a0800000000000000
+      internalID: -6791774295123044320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 711
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff5c0c78766a480800000000000000
+      internalID: -8888302981816647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 735
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa22cbd613cdc9c0800000000000000
+      internalID: -3905250798916719880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 709
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddfd63fdaaad33a0800000000000000
+      internalID: -6683998607857812015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 734
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867958cb579f7180800000000000000
+      internalID: -9115400700315470195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 709
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf152849135ae250800000000000000
+      internalID: 5974679223710064557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 709
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efce1e154720c3410800000000000000
+      internalID: 1458043077974420734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 734
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ba4585e2b1c400800000000000000
+      internalID: 342751745510390020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 735
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8780e835c9c1e0ba0800000000000000
+      internalID: -6120923385807632264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 711
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31777d7ef8588420800000000000000
+      internalID: 2632451832247972156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 735
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ecff7dade215000800000000000000
+      internalID: 22850990575177285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 737
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e9f64642172840800000000000000
+      internalID: 5199144387870320797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 711
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19744892a77a8d0800000000000000
+      internalID: -2835163121674907198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 737
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03d973967fe0f40800000000000000
+      internalID: 5696762609946931437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 642
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622a9b59dc17fd40800000000000000
+      internalID: 5617990780038292069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1130317e2db87e0800000000000000
+      internalID: -1762082939287170641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c62f411816aa08b0800000000000000
+      internalID: -5185149398663878971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 639
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25bd1bd7d0ffc00800000000000000
+      internalID: 936482081022366411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79c9ba9be6fbbde0800000000000000
+      internalID: -1316186974302123654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 639
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40047616e0f58d7a0800000000000000
+      internalID: -6352222759037747196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231161a462f71560800000000000000
+      internalID: 7284557436313211680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 642
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fec5b38e68071a0800000000000000
+      internalID: -6813797904225079487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec67274cb4e2380800000000000000
+      internalID: -8994168098706239886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 578
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b91cd68339880f0800000000000000
+      internalID: -1114479037205341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 577
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7741cb203cfbdee0800000000000000
+      internalID: -1235116388960352386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 575
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1ec324f2fc28e0800000000000000
+      internalID: -1716730227548349674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 575
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b885e403134010800000000000000
+      internalID: 1171801239798199350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 575
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f187332010d86130800000000000000
+      internalID: 3560324273165271541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 577
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d8508fe83f9f20800000000000000
+      internalID: 3431524042381252168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 578
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bead9847fa8d360800000000000000
+      internalID: 7194693319788260224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 514
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4e194cd2e9cd60800000000000000
+      internalID: 7911103656200392441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 514
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca66a950952dd5bb0800000000000000
+      internalID: -4945565535995009364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426e4bf9747262ad0800000000000000
+      internalID: -2727449335750662620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 511
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25517b3b14a47a70800000000000000
+      internalID: 8823858006793999663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 511
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21bc26db4b7ffd00800000000000000
+      internalID: 1008660407200297258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 511
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e328b1864a882d10800000000000000
+      internalID: 2101081261597008869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 513
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc29c5619e74f050800000000000000
+      internalID: 5833426580294675663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 514
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228031aa37a275af0800000000000000
+      internalID: -407810564990760926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 450
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc53ba75ee6ebd0800000000000000
+      internalID: -2601129674457887979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 450
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16deecffeccc340800000000000000
+      internalID: 4885507293873791454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9b478ae7a514a0800000000000000
+      internalID: -6623203051244381298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 391
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b2acbeb1d11bd0800000000000000
+      internalID: -2661115287660481312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 390
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0d973acaad86260800000000000000
+      internalID: 7091158048306745517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 391
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8868577e2a760e320800000000000000
+      internalID: 2585180135476266632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae231ed644aebd590800000000000000
+      internalID: -7648261962536504598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 450
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4fe0033e9f5b710800000000000000
+      internalID: 1708546387816150249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 401
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f923fa727fd270800000000000000
+      internalID: 8277460512521451611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 393
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f6d1e431e30dd0800000000000000
+      internalID: -2520923749153835523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 401
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbabd22bd4153850800000000000000
+      internalID: 6356009380518538235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 393
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3de40adc5e633a10800000000000000
+      internalID: 1887974013872172349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 401
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d4524549038b80800000000000000
+      internalID: -8393855087418223091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c811a4a52cede40800000000000000
+      internalID: 5683193472833653832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 392
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42949e48117f8e30800000000000000
+      internalID: 4507946101232669262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 393
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37607f013a85640800000000000000
+      internalID: 5068980673864692726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 401
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a4e7995e802d0e0800000000000000
+      internalID: -2246723481888732579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 322
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147497234ee32e00800000000000000
+      internalID: 1018919912910124052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 335
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb868799f4ff9e20800000000000000
+      internalID: 3359673199867890687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0fa5060c6af6200800000000000000
+      internalID: 175542255671243005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510c80aac188a71d0800000000000000
+      internalID: -3352217315930750955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 321
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef6e3495b3d59e0800000000000000
+      internalID: -1631082235460911478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 333
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e07456966e4e70800000000000000
+      internalID: 9101324692810162818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 40
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f308bc76aeaa40800000000000000
+      internalID: 5381421659347744735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 331
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636fd83da5bd27cc0800000000000000
+      internalID: -3714665559484402122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 41
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416187a614a8be9d0800000000000000
+      internalID: -2743947534388423148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 331
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b16530f6b693900800000000000000
+      internalID: 664680544555375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 257
+        width: 40
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a3a2dbee4b2db30800000000000000
+      internalID: 4310706730815863355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 331
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7048c58672dd30800000000000000
+      internalID: 4454753298385239505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 321
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc35418029890b00800000000000000
+      internalID: 795317581908360412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 333
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ad9dfa4165d7a40800000000000000
+      internalID: 5367540977745123897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 322
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7dcd4bf7e529130800000000000000
+      internalID: 3572021357046454268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c489dfaf65c75ace0800000000000000
+      internalID: -1394571796581345204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13514b585699a0ad0800000000000000
+      internalID: -2735205162360236751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 293
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d5e379f1c03060800000000000000
+      internalID: 6931253103658653668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 259
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c8e6e637b7ce040800000000000000
+      internalID: 4678249848635296770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 293
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d29da4dd46b2ca0800000000000000
+      internalID: -6040623573581091528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 258
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98360fa5e5b0ba0800000000000000
+      internalID: -6121695523806934594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70790e3a13dd6d7a0800000000000000
+      internalID: -6352647019086964985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece361368bb578910800000000000000
+      internalID: 1839539820298649294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 290
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488706a0fcbe30930800000000000000
+      internalID: 4108386559556876420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c29c437306cc080800000000000000
+      internalID: -9165845351380734865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 258
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ba0674b45e97d0800000000000000
+      internalID: -2909795175183501759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688d70a111c12c50800000000000000
+      internalID: 6638799607172008046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 259
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b526ce9e01b520800000000000000
+      internalID: 2715968125373101526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 293
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c5a76bcb041330800000000000000
+      internalID: 3680579763713721619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 229
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe157a44dd6cf750800000000000000
+      internalID: 6340063133980499646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b52eaa34d707b210800000000000000
+      internalID: 1348555221519705524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 229
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf137492c9071ad0800000000000000
+      internalID: -2731703917658038351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 195
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7ba542b5e87860800000000000000
+      internalID: 7528019330985590058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ff3a06a8b88900800000000000000
+      internalID: 687001966450045393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 194
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33296af2c11a2170800000000000000
+      internalID: 8154349604430226235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 227
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45f2554de7f5ef0800000000000000
+      internalID: -117235614861011780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc5b03483a85990800000000000000
+      internalID: -7396982599807808271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 226
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ce2ded831ba4800800000000000000
+      internalID: 597484758394662022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5228a31ec3538a0800000000000000
+      internalID: -6326083163525077538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 227
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cde0a48e740f960800000000000000
+      internalID: 7633680431393463321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 193
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21cfa240ff71b60800000000000000
+      internalID: 7716916879888749307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924fa4fca787abe10800000000000000
+      internalID: 2214214635665159209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 194
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3cf9d5dc74bd8f0800000000000000
+      internalID: -514738785039170597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 229
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5c9db7d0a89020800000000000000
+      internalID: 2348804054133268436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 195
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e00bc686d2ac80800000000000000
+      internalID: -8312846087752718071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8f1b4136b036b0800000000000000
+      internalID: -5318550837094543502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e300c8dc23684190800000000000000
+      internalID: -7978017695620660250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 129
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97159b5b4ea56bf0800000000000000
+      internalID: -331667358859585635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 127
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895fd7a9de2f4d810800000000000000
+      internalID: 1789322054286046616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1265f0776bf7bec50800000000000000
+      internalID: 6695585692674643489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 127
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4806099f3d9a1cc70800000000000000
+      internalID: 8989653059098402948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 129
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e96ce6cb1876e80800000000000000
+      internalID: -8185431151410241939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 130
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abe18ef0bfeb8780800000000000000
+      internalID: -8679580313363289180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdec3584849da7d0800000000000000
+      internalID: -2905502887692145226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c596a05ff22590800000000000000
+      internalID: -7700311690992827387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 77
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abba62965c4d2c5a0800000000000000
+      internalID: -6502400967631787078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784fa6506e1cf4d0800000000000000
+      internalID: -3099569044417722251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853c0c25f58bba80800000000000000
+      internalID: -8450012987778124416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 76
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd834937c26db450800000000000000
+      internalID: 6106145277583003102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7022f5d262ee4b0800000000000000
+      internalID: -5409344126113937439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5b6d499cb618d0800000000000000
+      internalID: -2875903945414582948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 75
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4662aa9216113c0800000000000000
+      internalID: -4390621330133326659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 74
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6892268c35e5bffb0800000000000000
+      internalID: -4612989679373768314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7053085d7df7e70800000000000000
+      internalID: 9115241482800138223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 73
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f36d3e38502fb80800000000000000
+      internalID: -8362615494052266112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff875c268407fe0800000000000000
+      internalID: -1193374312196145187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f2f55d7e38e6d60800000000000000
+      internalID: 7885385029312786327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 73
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5678eb0271d6e7840800000000000000
+      internalID: 5223732563897386853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 74
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2b3831c4d788a0800000000000000
+      internalID: -6302835227144540275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb50777fdfb8c32e0800000000000000
+      internalID: -2144685399640439362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 73
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d671674b8d5e6fe0800000000000000
+      internalID: -1193913998427195691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 75
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d21f84f2a1cfc660800000000000000
+      internalID: 7408352817679635155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ab15470388b6c0800000000000000
+      internalID: -4127404991237609457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 75
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361251c26fc1fdb0800000000000000
+      internalID: -4759795308096776649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1808e65159ca8480800000000000000
+      internalID: -8896076762729412577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3994906a5eff90c40800000000000000
+      internalID: 5479191783471139219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 76
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16352414980442040800000000000000
+      internalID: 4621890075838534497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb283503665effe00800000000000000
+      internalID: 1080834662652412606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f5d38ba523f3430800000000000000
+      internalID: 3764783178724499302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172fe15de5ea4ac00800000000000000
+      internalID: 911044746961416817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b1a32a884108a20800000000000000
+      internalID: 3062470323681762137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61390671ec92ed50800000000000000
+      internalID: 6765142082425794923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179ad8140a970400800000000000000
+      internalID: 290370043376211736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae089fe360e5b540800000000000000
+      internalID: 5023167679227760295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verdant_runes_64x64_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210545ed6e36579f0800000000000000
+      internalID: -471360742766653422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verdant_runes_64x64_sheet_0: 6210791631517699575
+      verdant_runes_64x64_sheet_1: -2506613013565279344
+      verdant_runes_64x64_sheet_10: -9115400700315470195
+      verdant_runes_64x64_sheet_100: 7633680431393463321
+      verdant_runes_64x64_sheet_101: 7716916879888749307
+      verdant_runes_64x64_sheet_102: 2214214635665159209
+      verdant_runes_64x64_sheet_103: -514738785039170597
+      verdant_runes_64x64_sheet_104: 2348804054133268436
+      verdant_runes_64x64_sheet_105: -8312846087752718071
+      verdant_runes_64x64_sheet_106: -5318550837094543502
+      verdant_runes_64x64_sheet_107: -7978017695620660250
+      verdant_runes_64x64_sheet_108: -331667358859585635
+      verdant_runes_64x64_sheet_109: 1789322054286046616
+      verdant_runes_64x64_sheet_11: 5974679223710064557
+      verdant_runes_64x64_sheet_110: 6695585692674643489
+      verdant_runes_64x64_sheet_111: 8989653059098402948
+      verdant_runes_64x64_sheet_112: -8185431151410241939
+      verdant_runes_64x64_sheet_113: -8679580313363289180
+      verdant_runes_64x64_sheet_114: -2905502887692145226
+      verdant_runes_64x64_sheet_115: -7700311690992827387
+      verdant_runes_64x64_sheet_116: -6502400967631787078
+      verdant_runes_64x64_sheet_117: -3099569044417722251
+      verdant_runes_64x64_sheet_118: -8450012987778124416
+      verdant_runes_64x64_sheet_119: 6106145277583003102
+      verdant_runes_64x64_sheet_12: 1458043077974420734
+      verdant_runes_64x64_sheet_120: -5409344126113937439
+      verdant_runes_64x64_sheet_121: -2875903945414582948
+      verdant_runes_64x64_sheet_122: -4390621330133326659
+      verdant_runes_64x64_sheet_123: -4612989679373768314
+      verdant_runes_64x64_sheet_124: 9115241482800138223
+      verdant_runes_64x64_sheet_125: -8362615494052266112
+      verdant_runes_64x64_sheet_126: -1193374312196145187
+      verdant_runes_64x64_sheet_127: 7885385029312786327
+      verdant_runes_64x64_sheet_128: 5223732563897386853
+      verdant_runes_64x64_sheet_129: -6302835227144540275
+      verdant_runes_64x64_sheet_13: 342751745510390020
+      verdant_runes_64x64_sheet_130: -2144685399640439362
+      verdant_runes_64x64_sheet_131: -1193913998427195691
+      verdant_runes_64x64_sheet_132: 7408352817679635155
+      verdant_runes_64x64_sheet_133: -4127404991237609457
+      verdant_runes_64x64_sheet_134: -4759795308096776649
+      verdant_runes_64x64_sheet_135: -8896076762729412577
+      verdant_runes_64x64_sheet_136: 5479191783471139219
+      verdant_runes_64x64_sheet_137: 4621890075838534497
+      verdant_runes_64x64_sheet_138: 1080834662652412606
+      verdant_runes_64x64_sheet_139: 3764783178724499302
+      verdant_runes_64x64_sheet_14: -6120923385807632264
+      verdant_runes_64x64_sheet_140: 911044746961416817
+      verdant_runes_64x64_sheet_141: 3062470323681762137
+      verdant_runes_64x64_sheet_142: 6765142082425794923
+      verdant_runes_64x64_sheet_143: 290370043376211736
+      verdant_runes_64x64_sheet_144: 5023167679227760295
+      verdant_runes_64x64_sheet_145: -471360742766653422
+      verdant_runes_64x64_sheet_15: 2632451832247972156
+      verdant_runes_64x64_sheet_16: 22850990575177285
+      verdant_runes_64x64_sheet_17: 5199144387870320797
+      verdant_runes_64x64_sheet_18: -2835163121674907198
+      verdant_runes_64x64_sheet_19: 5696762609946931437
+      verdant_runes_64x64_sheet_2: -8276331290918407341
+      verdant_runes_64x64_sheet_20: 5617990780038292069
+      verdant_runes_64x64_sheet_21: -1762082939287170641
+      verdant_runes_64x64_sheet_22: -5185149398663878971
+      verdant_runes_64x64_sheet_23: 936482081022366411
+      verdant_runes_64x64_sheet_24: -1316186974302123654
+      verdant_runes_64x64_sheet_25: -6352222759037747196
+      verdant_runes_64x64_sheet_26: 7284557436313211680
+      verdant_runes_64x64_sheet_27: -6813797904225079487
+      verdant_runes_64x64_sheet_28: -8994168098706239886
+      verdant_runes_64x64_sheet_29: -1114479037205341351
+      verdant_runes_64x64_sheet_3: 8461234021061586925
+      verdant_runes_64x64_sheet_30: -1235116388960352386
+      verdant_runes_64x64_sheet_31: -1716730227548349674
+      verdant_runes_64x64_sheet_32: 1171801239798199350
+      verdant_runes_64x64_sheet_33: 3560324273165271541
+      verdant_runes_64x64_sheet_34: 3431524042381252168
+      verdant_runes_64x64_sheet_35: 7194693319788260224
+      verdant_runes_64x64_sheet_36: 7911103656200392441
+      verdant_runes_64x64_sheet_37: -4945565535995009364
+      verdant_runes_64x64_sheet_38: -2727449335750662620
+      verdant_runes_64x64_sheet_39: 8823858006793999663
+      verdant_runes_64x64_sheet_4: -1970479618555956489
+      verdant_runes_64x64_sheet_40: 1008660407200297258
+      verdant_runes_64x64_sheet_41: 2101081261597008869
+      verdant_runes_64x64_sheet_42: 5833426580294675663
+      verdant_runes_64x64_sheet_43: -407810564990760926
+      verdant_runes_64x64_sheet_44: -2601129674457887979
+      verdant_runes_64x64_sheet_45: 4885507293873791454
+      verdant_runes_64x64_sheet_46: -6623203051244381298
+      verdant_runes_64x64_sheet_47: -2661115287660481312
+      verdant_runes_64x64_sheet_48: 7091158048306745517
+      verdant_runes_64x64_sheet_49: 2585180135476266632
+      verdant_runes_64x64_sheet_5: 217702119707400713
+      verdant_runes_64x64_sheet_50: -7648261962536504598
+      verdant_runes_64x64_sheet_51: 1708546387816150249
+      verdant_runes_64x64_sheet_52: 8277460512521451611
+      verdant_runes_64x64_sheet_53: -2520923749153835523
+      verdant_runes_64x64_sheet_54: 6356009380518538235
+      verdant_runes_64x64_sheet_55: 1887974013872172349
+      verdant_runes_64x64_sheet_56: -8393855087418223091
+      verdant_runes_64x64_sheet_57: 5683193472833653832
+      verdant_runes_64x64_sheet_58: 4507946101232669262
+      verdant_runes_64x64_sheet_59: 5068980673864692726
+      verdant_runes_64x64_sheet_6: -6791774295123044320
+      verdant_runes_64x64_sheet_60: -2246723481888732579
+      verdant_runes_64x64_sheet_61: 1018919912910124052
+      verdant_runes_64x64_sheet_62: 3359673199867890687
+      verdant_runes_64x64_sheet_63: 175542255671243005
+      verdant_runes_64x64_sheet_64: -3352217315930750955
+      verdant_runes_64x64_sheet_65: -1631082235460911478
+      verdant_runes_64x64_sheet_66: 9101324692810162818
+      verdant_runes_64x64_sheet_67: 5381421659347744735
+      verdant_runes_64x64_sheet_68: -3714665559484402122
+      verdant_runes_64x64_sheet_69: -2743947534388423148
+      verdant_runes_64x64_sheet_7: -8888302981816647805
+      verdant_runes_64x64_sheet_70: 664680544555375469
+      verdant_runes_64x64_sheet_71: 4310706730815863355
+      verdant_runes_64x64_sheet_72: 4454753298385239505
+      verdant_runes_64x64_sheet_73: 795317581908360412
+      verdant_runes_64x64_sheet_74: 5367540977745123897
+      verdant_runes_64x64_sheet_75: 3572021357046454268
+      verdant_runes_64x64_sheet_76: -1394571796581345204
+      verdant_runes_64x64_sheet_77: -2735205162360236751
+      verdant_runes_64x64_sheet_78: 6931253103658653668
+      verdant_runes_64x64_sheet_79: 4678249848635296770
+      verdant_runes_64x64_sheet_8: -3905250798916719880
+      verdant_runes_64x64_sheet_80: -6040623573581091528
+      verdant_runes_64x64_sheet_81: -6121695523806934594
+      verdant_runes_64x64_sheet_82: -6352647019086964985
+      verdant_runes_64x64_sheet_83: 1839539820298649294
+      verdant_runes_64x64_sheet_84: 4108386559556876420
+      verdant_runes_64x64_sheet_85: -9165845351380734865
+      verdant_runes_64x64_sheet_86: -2909795175183501759
+      verdant_runes_64x64_sheet_87: 6638799607172008046
+      verdant_runes_64x64_sheet_88: 2715968125373101526
+      verdant_runes_64x64_sheet_89: 3680579763713721619
+      verdant_runes_64x64_sheet_9: -6683998607857812015
+      verdant_runes_64x64_sheet_90: 6340063133980499646
+      verdant_runes_64x64_sheet_91: 1348555221519705524
+      verdant_runes_64x64_sheet_92: -2731703917658038351
+      verdant_runes_64x64_sheet_93: 7528019330985590058
+      verdant_runes_64x64_sheet_94: 687001966450045393
+      verdant_runes_64x64_sheet_95: 8154349604430226235
+      verdant_runes_64x64_sheet_96: -117235614861011780
+      verdant_runes_64x64_sheet_97: -7396982599807808271
+      verdant_runes_64x64_sheet_98: 597484758394662022
+      verdant_runes_64x64_sheet_99: -6326083163525077538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3005 @@
+fileFormatVersion: 2
+guid: d58719a45f537404abf7b801bc8c01fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3172256052407883137
+    second: arcane_runes_64x64_sheet_0
+  - first:
+      213: 4491626196231759362
+    second: arcane_runes_64x64_sheet_1
+  - first:
+      213: 5863144698813546266
+    second: arcane_runes_64x64_sheet_2
+  - first:
+      213: 3564661330146086317
+    second: arcane_runes_64x64_sheet_3
+  - first:
+      213: 5574840485889845065
+    second: arcane_runes_64x64_sheet_4
+  - first:
+      213: 5771509800956251072
+    second: arcane_runes_64x64_sheet_5
+  - first:
+      213: 8527974064271633088
+    second: arcane_runes_64x64_sheet_6
+  - first:
+      213: -708843372295621804
+    second: arcane_runes_64x64_sheet_7
+  - first:
+      213: -7628939600666567208
+    second: arcane_runes_64x64_sheet_8
+  - first:
+      213: 2027536834779462714
+    second: arcane_runes_64x64_sheet_9
+  - first:
+      213: 7928468067299650949
+    second: arcane_runes_64x64_sheet_10
+  - first:
+      213: 2946531974726222840
+    second: arcane_runes_64x64_sheet_11
+  - first:
+      213: -3918893945149742473
+    second: arcane_runes_64x64_sheet_12
+  - first:
+      213: -3589719729892113222
+    second: arcane_runes_64x64_sheet_13
+  - first:
+      213: 4306228052467840487
+    second: arcane_runes_64x64_sheet_14
+  - first:
+      213: -6358323111500332820
+    second: arcane_runes_64x64_sheet_15
+  - first:
+      213: 5686497071946921990
+    second: arcane_runes_64x64_sheet_16
+  - first:
+      213: 6159030716197181418
+    second: arcane_runes_64x64_sheet_17
+  - first:
+      213: 1316427655507142799
+    second: arcane_runes_64x64_sheet_18
+  - first:
+      213: 2279008960713539885
+    second: arcane_runes_64x64_sheet_19
+  - first:
+      213: 2094469334974639958
+    second: arcane_runes_64x64_sheet_20
+  - first:
+      213: 5458716849383163185
+    second: arcane_runes_64x64_sheet_21
+  - first:
+      213: 965647178639163843
+    second: arcane_runes_64x64_sheet_22
+  - first:
+      213: 5055636359056646448
+    second: arcane_runes_64x64_sheet_23
+  - first:
+      213: -4543876399809404452
+    second: arcane_runes_64x64_sheet_24
+  - first:
+      213: 1709785938854703839
+    second: arcane_runes_64x64_sheet_25
+  - first:
+      213: 7129160605362722384
+    second: arcane_runes_64x64_sheet_26
+  - first:
+      213: 9110319250920967543
+    second: arcane_runes_64x64_sheet_27
+  - first:
+      213: 8445900921083280817
+    second: arcane_runes_64x64_sheet_28
+  - first:
+      213: -6671832901590615625
+    second: arcane_runes_64x64_sheet_29
+  - first:
+      213: -8658726275636864769
+    second: arcane_runes_64x64_sheet_30
+  - first:
+      213: -6765297810943497429
+    second: arcane_runes_64x64_sheet_31
+  - first:
+      213: -5455983586512739411
+    second: arcane_runes_64x64_sheet_32
+  - first:
+      213: 3129800425023754396
+    second: arcane_runes_64x64_sheet_33
+  - first:
+      213: 5829826563006325180
+    second: arcane_runes_64x64_sheet_34
+  - first:
+      213: -460764799235065376
+    second: arcane_runes_64x64_sheet_35
+  - first:
+      213: -1393831433147035097
+    second: arcane_runes_64x64_sheet_36
+  - first:
+      213: -4229223741249909264
+    second: arcane_runes_64x64_sheet_37
+  - first:
+      213: -7681276474608522990
+    second: arcane_runes_64x64_sheet_38
+  - first:
+      213: -9073069717844214324
+    second: arcane_runes_64x64_sheet_39
+  - first:
+      213: -8628730695540584148
+    second: arcane_runes_64x64_sheet_40
+  - first:
+      213: -4015608042103152444
+    second: arcane_runes_64x64_sheet_41
+  - first:
+      213: -8381606485440577743
+    second: arcane_runes_64x64_sheet_42
+  - first:
+      213: 7973981286701012546
+    second: arcane_runes_64x64_sheet_43
+  - first:
+      213: -7278976770981755149
+    second: arcane_runes_64x64_sheet_44
+  - first:
+      213: -5235497252386042467
+    second: arcane_runes_64x64_sheet_45
+  - first:
+      213: 782685002145440192
+    second: arcane_runes_64x64_sheet_46
+  - first:
+      213: -5449722183814964989
+    second: arcane_runes_64x64_sheet_47
+  - first:
+      213: 8647791217084910194
+    second: arcane_runes_64x64_sheet_48
+  - first:
+      213: 3369066614660002766
+    second: arcane_runes_64x64_sheet_49
+  - first:
+      213: -1452854599417327244
+    second: arcane_runes_64x64_sheet_50
+  - first:
+      213: -745076354054094482
+    second: arcane_runes_64x64_sheet_51
+  - first:
+      213: 7413227764891964621
+    second: arcane_runes_64x64_sheet_52
+  - first:
+      213: 1902840577861005733
+    second: arcane_runes_64x64_sheet_53
+  - first:
+      213: 8129167523959617361
+    second: arcane_runes_64x64_sheet_54
+  - first:
+      213: -8126990936258625555
+    second: arcane_runes_64x64_sheet_55
+  - first:
+      213: 4033938408672990038
+    second: arcane_runes_64x64_sheet_56
+  - first:
+      213: 4527440135762812042
+    second: arcane_runes_64x64_sheet_57
+  - first:
+      213: -3052325674536129862
+    second: arcane_runes_64x64_sheet_58
+  - first:
+      213: -1305830987403050477
+    second: arcane_runes_64x64_sheet_59
+  - first:
+      213: -2878542431374742562
+    second: arcane_runes_64x64_sheet_60
+  - first:
+      213: 613416643846459647
+    second: arcane_runes_64x64_sheet_61
+  - first:
+      213: 6721207392334955493
+    second: arcane_runes_64x64_sheet_62
+  - first:
+      213: 5003302730131440897
+    second: arcane_runes_64x64_sheet_63
+  - first:
+      213: -2544410532517280954
+    second: arcane_runes_64x64_sheet_64
+  - first:
+      213: -4549216960056909980
+    second: arcane_runes_64x64_sheet_65
+  - first:
+      213: -4105581273703935769
+    second: arcane_runes_64x64_sheet_66
+  - first:
+      213: 4256862136942673750
+    second: arcane_runes_64x64_sheet_67
+  - first:
+      213: 5889322124739894379
+    second: arcane_runes_64x64_sheet_68
+  - first:
+      213: -3614375253884642229
+    second: arcane_runes_64x64_sheet_69
+  - first:
+      213: -1752369494011652593
+    second: arcane_runes_64x64_sheet_70
+  - first:
+      213: -732299694301470356
+    second: arcane_runes_64x64_sheet_71
+  - first:
+      213: -1139054148012880367
+    second: arcane_runes_64x64_sheet_72
+  - first:
+      213: -5937284669935020165
+    second: arcane_runes_64x64_sheet_73
+  - first:
+      213: 495498121996920422
+    second: arcane_runes_64x64_sheet_74
+  - first:
+      213: 8060296966531359086
+    second: arcane_runes_64x64_sheet_75
+  - first:
+      213: -8537164398461505374
+    second: arcane_runes_64x64_sheet_76
+  - first:
+      213: -2189024479509107995
+    second: arcane_runes_64x64_sheet_77
+  - first:
+      213: 731807477809266917
+    second: arcane_runes_64x64_sheet_78
+  - first:
+      213: -5526519243679239317
+    second: arcane_runes_64x64_sheet_79
+  - first:
+      213: 3348209318000686998
+    second: arcane_runes_64x64_sheet_80
+  - first:
+      213: -1427727670221643970
+    second: arcane_runes_64x64_sheet_81
+  - first:
+      213: 3412020262356638914
+    second: arcane_runes_64x64_sheet_82
+  - first:
+      213: -6170705264413111946
+    second: arcane_runes_64x64_sheet_83
+  - first:
+      213: -1287015818711027500
+    second: arcane_runes_64x64_sheet_84
+  - first:
+      213: -5280846217734894756
+    second: arcane_runes_64x64_sheet_85
+  - first:
+      213: 55603299442899081
+    second: arcane_runes_64x64_sheet_86
+  - first:
+      213: 8053756717298743993
+    second: arcane_runes_64x64_sheet_87
+  - first:
+      213: -6973436094026551424
+    second: arcane_runes_64x64_sheet_88
+  - first:
+      213: -1280872972948346566
+    second: arcane_runes_64x64_sheet_89
+  - first:
+      213: 2972928309194262093
+    second: arcane_runes_64x64_sheet_90
+  - first:
+      213: -4025430885441445244
+    second: arcane_runes_64x64_sheet_91
+  - first:
+      213: 1682586328293664204
+    second: arcane_runes_64x64_sheet_92
+  - first:
+      213: 5996601060856660335
+    second: arcane_runes_64x64_sheet_93
+  - first:
+      213: 5473754380764397660
+    second: arcane_runes_64x64_sheet_94
+  - first:
+      213: 2727839818946249775
+    second: arcane_runes_64x64_sheet_95
+  - first:
+      213: -4828653360499979887
+    second: arcane_runes_64x64_sheet_96
+  - first:
+      213: -95153294728036732
+    second: arcane_runes_64x64_sheet_97
+  - first:
+      213: -3188417976577557098
+    second: arcane_runes_64x64_sheet_98
+  - first:
+      213: -5739891554930534381
+    second: arcane_runes_64x64_sheet_99
+  - first:
+      213: 6976089613510814899
+    second: arcane_runes_64x64_sheet_100
+  - first:
+      213: -6867193354090070872
+    second: arcane_runes_64x64_sheet_101
+  - first:
+      213: 9037318367713667794
+    second: arcane_runes_64x64_sheet_102
+  - first:
+      213: -7377705682075940478
+    second: arcane_runes_64x64_sheet_103
+  - first:
+      213: 9143178372079229830
+    second: arcane_runes_64x64_sheet_104
+  - first:
+      213: 570265966391068313
+    second: arcane_runes_64x64_sheet_105
+  - first:
+      213: 6260706207810886261
+    second: arcane_runes_64x64_sheet_106
+  - first:
+      213: 4332681366186784196
+    second: arcane_runes_64x64_sheet_107
+  - first:
+      213: -2902137293651995318
+    second: arcane_runes_64x64_sheet_108
+  - first:
+      213: 8697542738598501097
+    second: arcane_runes_64x64_sheet_109
+  - first:
+      213: -8282881375018107226
+    second: arcane_runes_64x64_sheet_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 739
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a25ab7de1e9f3d0800000000000000
+      internalID: -3172256052407883137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 706
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ab325a36755e30800000000000000
+      internalID: 4491626196231759362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 739
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ffe7f0a031e5150800000000000000
+      internalID: 5863144698813546266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 706
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadcde7e798387130800000000000000
+      internalID: 3564661330146086317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 738
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9472ee892efcd5d40800000000000000
+      internalID: 5574840485889845065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 705
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbceafc595881050800000000000000
+      internalID: 5771509800956251072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 643
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa7a27a33795670800000000000000
+      internalID: 8527974064271633088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 643
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453fde065bea926f0800000000000000
+      internalID: -708843372295621804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 643
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddb516adf802690800000000000000
+      internalID: -7628939600666567208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 705
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cbc064202432c10800000000000000
+      internalID: 2027536834779462714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 706
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6c6c43b3970e60800000000000000
+      internalID: 7928468067299650949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 738
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f303e8383f24e820800000000000000
+      internalID: 2946531974726222840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 646
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772abe658ba4d99c0800000000000000
+      internalID: -3918893945149742473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 645
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c190cce0ce2ec0800000000000000
+      internalID: -3589719729892113222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 645
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5fa2d299bc2cb30800000000000000
+      internalID: 4306228052467840487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 645
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0cdd361d2b2c7a0800000000000000
+      internalID: -6358323111500332820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 645
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608f1b565fe7aee40800000000000000
+      internalID: 5686497071946921990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 581
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae717afedc5497550800000000000000
+      internalID: 6159030716197181418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 581
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e00b5af3e44210800000000000000
+      internalID: 1316427655507142799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 580
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214347339aa0af10800000000000000
+      internalID: 2279008960713539885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 579
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fac1063cc011d10800000000000000
+      internalID: 2094469334974639958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 578
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354ce09d0241cb40800000000000000
+      internalID: 5458716849383163185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 579
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c145252efaa66d00800000000000000
+      internalID: 965647178639163843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 580
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ee1f8b7a392640800000000000000
+      internalID: 5055636359056646448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 581
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd164162d78e0f0c0800000000000000
+      internalID: -4543876399809404452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 547
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27467a0416ab710800000000000000
+      internalID: 1709785938854703839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 514
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569a557ccddfe260800000000000000
+      internalID: 7129160605362722384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 547
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d0c85171b5e6e70800000000000000
+      internalID: 9110319250920967543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 514
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd3051b32ed53570800000000000000
+      internalID: 8445900921083280817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 546
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b97deb2353e863a0800000000000000
+      internalID: -6671832901590615625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 513
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d255045606d780800000000000000
+      internalID: -8658726275636864769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 511
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2cfa2c75dc12a0800000000000000
+      internalID: -6765297810943497429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 511
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3eb89c5d37844b0800000000000000
+      internalID: -5455983586512739411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 511
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90586777e84f6b20800000000000000
+      internalID: 3129800425023754396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 513
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e02e0f54b7e050800000000000000
+      internalID: 5829826563006325180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 514
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f6983bd80b99f0800000000000000
+      internalID: -460764799235065376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 546
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225f7642bd18ace0800000000000000
+      internalID: -1393831433147035097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 485
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd862b2a67ce45c0800000000000000
+      internalID: -4229223741249909264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 450
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e4655ebf966590800000000000000
+      internalID: -7681276474608522990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 485
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdba8da92bf51280800000000000000
+      internalID: -9073069717844214324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 450
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c215bcd3627904880800000000000000
+      internalID: -8628730695540584148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 485
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c06d35e2c1b548c0800000000000000
+      internalID: -4015608042103152444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 449
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f34342f4d8eab80800000000000000
+      internalID: -8381606485440577743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 447
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461d677bb549ae60800000000000000
+      internalID: 7973981286701012546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 447
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f600554131ebfa90800000000000000
+      internalID: -7278976770981755149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 447
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0ff0ecf6c757b0800000000000000
+      internalID: -5235497252386042467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 449
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a7e3dcd7acda00800000000000000
+      internalID: 782685002145440192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 450
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30994253c82be54b0800000000000000
+      internalID: -5449722183814964989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 485
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ac6124b40230870800000000000000
+      internalID: 8647791217084910194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ff676c3451ce20800000000000000
+      internalID: 3369066614660002766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 386
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471107b707c66dbe0800000000000000
+      internalID: -1452854599417327244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 385
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61001ae005f8a5f0800000000000000
+      internalID: -745076354054094482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 323
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d27d006311e660800000000000000
+      internalID: 7413227764891964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 322
+        width: 58
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ba938c6f386a10800000000000000
+      internalID: 1902840577861005733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 323
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573149faca90d070800000000000000
+      internalID: 8129167523959617361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 385
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3c775dc0273f80800000000000000
+      internalID: -8126990936258625555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 386
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65312c62c9d6bf730800000000000000
+      internalID: 4033938408672990038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c1df9e0d2b4de30800000000000000
+      internalID: 4527440135762812042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 357
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba287e88f5f3a5d0800000000000000
+      internalID: -3052325674536129862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 325
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c423b2a1c0ede0800000000000000
+      internalID: -1305830987403050477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe40be8ec5d08d0800000000000000
+      internalID: -2878542431374742562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 324
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0d7c3003b438800800000000000000
+      internalID: 613416643846459647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3cad94386864d50800000000000000
+      internalID: 6721207392334955493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 324
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1050a3d035d4f6540800000000000000
+      internalID: 5003302730131440897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438b8ef91070bcd0800000000000000
+      internalID: -2544410532517280954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 325
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f10a1174fedd0c0800000000000000
+      internalID: -4549216960056909980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e09168759b0607c0800000000000000
+      internalID: -4105581273703935769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f374a4f89631b30800000000000000
+      internalID: 4256862136942673750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c58fcf4431bb150800000000000000
+      internalID: 5889322124739894379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 261
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c5e3b3bd827ddc0800000000000000
+      internalID: -3614375253884642229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06543aca355ea7e0800000000000000
+      internalID: -1752369494011652593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 259
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a804de4956d5f0800000000000000
+      internalID: -732299694301470356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 260
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec1cf89444130f0800000000000000
+      internalID: -1139054148012880367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 261
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77962ebc078a9da0800000000000000
+      internalID: -5937284669935020165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 263
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666ef7caaec50e600800000000000000
+      internalID: 495498121996920422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a242c26debdf60800000000000000
+      internalID: 8060296966531359086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a037902636e58980800000000000000
+      internalID: -8537164398461505374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaa93675d50f91e0800000000000000
+      internalID: -2189024479509107995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 197
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0cbc61607e72a00800000000000000
+      internalID: 731807477809266917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 197
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637324570cdd43b0800000000000000
+      internalID: -5526519243679239317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 197
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697751992aa377e20800000000000000
+      internalID: 3348209318000686998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 199
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f51749f31bf2ce0800000000000000
+      internalID: -1427727670221643970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 199
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd338d95ee95f20800000000000000
+      internalID: 3412020262356638914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679060d71404d5aa0800000000000000
+      internalID: -6170705264413111946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bb698ee9932ee0800000000000000
+      internalID: -1287015818711027500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4276185aa6b6b0800000000000000
+      internalID: -5280846217734894756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98832aff7ea85c000800000000000000
+      internalID: 55603299442899081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baf1025011b4cf60800000000000000
+      internalID: 8053756717298743993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe8afb1d0693f90800000000000000
+      internalID: -6973436094026551424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 130
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e30541dc693ee0800000000000000
+      internalID: -1280872972948346566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 131
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d460a34cb86f14920800000000000000
+      internalID: 2972928309194262093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826065ffebc228c0800000000000000
+      internalID: -4025430885441445244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56fd1d95fb95710800000000000000
+      internalID: 1682586328293664204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61871cb4e4383350800000000000000
+      internalID: 5996601060856660335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50433dab9ea6fb40800000000000000
+      internalID: 5473754380764397660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f240574dcdb3bd520800000000000000
+      internalID: 2727839818946249775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 72
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19907e71a5d2dfcb0800000000000000
+      internalID: -4828653360499979887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef6842592fdaef0800000000000000
+      internalID: -95153294728036732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 70
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dff964eb670c3d0800000000000000
+      internalID: -3188417976577557098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d913ca0fc750b0800000000000000
+      internalID: -5739891554930534381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 72
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcaa96ea8c00d060800000000000000
+      internalID: 6976089613510814899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 73
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb9854704d2b0a0800000000000000
+      internalID: -6867193354090070872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daafa57c210b6d70800000000000000
+      internalID: 9037318367713667794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898b7a55cf1d9990800000000000000
+      internalID: -7377705682075940478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b11d9694813ee70800000000000000
+      internalID: 9143178372079229830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9960c3200edf9e700800000000000000
+      internalID: 570265966391068313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a96a7102f72e650800000000000000
+      internalID: 6260706207810886261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5748c3fb6c02c30800000000000000
+      internalID: 4332681366186784196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459572f18989b7d0800000000000000
+      internalID: -2902137293651995318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea11f80a01e3b870800000000000000
+      internalID: 8697542738598501097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_runes_64x64_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb855264b4d0d80800000000000000
+      internalID: -8282881375018107226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arcane_runes_64x64_sheet_0: -3172256052407883137
+      arcane_runes_64x64_sheet_1: 4491626196231759362
+      arcane_runes_64x64_sheet_10: 7928468067299650949
+      arcane_runes_64x64_sheet_100: 6976089613510814899
+      arcane_runes_64x64_sheet_101: -6867193354090070872
+      arcane_runes_64x64_sheet_102: 9037318367713667794
+      arcane_runes_64x64_sheet_103: -7377705682075940478
+      arcane_runes_64x64_sheet_104: 9143178372079229830
+      arcane_runes_64x64_sheet_105: 570265966391068313
+      arcane_runes_64x64_sheet_106: 6260706207810886261
+      arcane_runes_64x64_sheet_107: 4332681366186784196
+      arcane_runes_64x64_sheet_108: -2902137293651995318
+      arcane_runes_64x64_sheet_109: 8697542738598501097
+      arcane_runes_64x64_sheet_11: 2946531974726222840
+      arcane_runes_64x64_sheet_110: -8282881375018107226
+      arcane_runes_64x64_sheet_12: -3918893945149742473
+      arcane_runes_64x64_sheet_13: -3589719729892113222
+      arcane_runes_64x64_sheet_14: 4306228052467840487
+      arcane_runes_64x64_sheet_15: -6358323111500332820
+      arcane_runes_64x64_sheet_16: 5686497071946921990
+      arcane_runes_64x64_sheet_17: 6159030716197181418
+      arcane_runes_64x64_sheet_18: 1316427655507142799
+      arcane_runes_64x64_sheet_19: 2279008960713539885
+      arcane_runes_64x64_sheet_2: 5863144698813546266
+      arcane_runes_64x64_sheet_20: 2094469334974639958
+      arcane_runes_64x64_sheet_21: 5458716849383163185
+      arcane_runes_64x64_sheet_22: 965647178639163843
+      arcane_runes_64x64_sheet_23: 5055636359056646448
+      arcane_runes_64x64_sheet_24: -4543876399809404452
+      arcane_runes_64x64_sheet_25: 1709785938854703839
+      arcane_runes_64x64_sheet_26: 7129160605362722384
+      arcane_runes_64x64_sheet_27: 9110319250920967543
+      arcane_runes_64x64_sheet_28: 8445900921083280817
+      arcane_runes_64x64_sheet_29: -6671832901590615625
+      arcane_runes_64x64_sheet_3: 3564661330146086317
+      arcane_runes_64x64_sheet_30: -8658726275636864769
+      arcane_runes_64x64_sheet_31: -6765297810943497429
+      arcane_runes_64x64_sheet_32: -5455983586512739411
+      arcane_runes_64x64_sheet_33: 3129800425023754396
+      arcane_runes_64x64_sheet_34: 5829826563006325180
+      arcane_runes_64x64_sheet_35: -460764799235065376
+      arcane_runes_64x64_sheet_36: -1393831433147035097
+      arcane_runes_64x64_sheet_37: -4229223741249909264
+      arcane_runes_64x64_sheet_38: -7681276474608522990
+      arcane_runes_64x64_sheet_39: -9073069717844214324
+      arcane_runes_64x64_sheet_4: 5574840485889845065
+      arcane_runes_64x64_sheet_40: -8628730695540584148
+      arcane_runes_64x64_sheet_41: -4015608042103152444
+      arcane_runes_64x64_sheet_42: -8381606485440577743
+      arcane_runes_64x64_sheet_43: 7973981286701012546
+      arcane_runes_64x64_sheet_44: -7278976770981755149
+      arcane_runes_64x64_sheet_45: -5235497252386042467
+      arcane_runes_64x64_sheet_46: 782685002145440192
+      arcane_runes_64x64_sheet_47: -5449722183814964989
+      arcane_runes_64x64_sheet_48: 8647791217084910194
+      arcane_runes_64x64_sheet_49: 3369066614660002766
+      arcane_runes_64x64_sheet_5: 5771509800956251072
+      arcane_runes_64x64_sheet_50: -1452854599417327244
+      arcane_runes_64x64_sheet_51: -745076354054094482
+      arcane_runes_64x64_sheet_52: 7413227764891964621
+      arcane_runes_64x64_sheet_53: 1902840577861005733
+      arcane_runes_64x64_sheet_54: 8129167523959617361
+      arcane_runes_64x64_sheet_55: -8126990936258625555
+      arcane_runes_64x64_sheet_56: 4033938408672990038
+      arcane_runes_64x64_sheet_57: 4527440135762812042
+      arcane_runes_64x64_sheet_58: -3052325674536129862
+      arcane_runes_64x64_sheet_59: -1305830987403050477
+      arcane_runes_64x64_sheet_6: 8527974064271633088
+      arcane_runes_64x64_sheet_60: -2878542431374742562
+      arcane_runes_64x64_sheet_61: 613416643846459647
+      arcane_runes_64x64_sheet_62: 6721207392334955493
+      arcane_runes_64x64_sheet_63: 5003302730131440897
+      arcane_runes_64x64_sheet_64: -2544410532517280954
+      arcane_runes_64x64_sheet_65: -4549216960056909980
+      arcane_runes_64x64_sheet_66: -4105581273703935769
+      arcane_runes_64x64_sheet_67: 4256862136942673750
+      arcane_runes_64x64_sheet_68: 5889322124739894379
+      arcane_runes_64x64_sheet_69: -3614375253884642229
+      arcane_runes_64x64_sheet_7: -708843372295621804
+      arcane_runes_64x64_sheet_70: -1752369494011652593
+      arcane_runes_64x64_sheet_71: -732299694301470356
+      arcane_runes_64x64_sheet_72: -1139054148012880367
+      arcane_runes_64x64_sheet_73: -5937284669935020165
+      arcane_runes_64x64_sheet_74: 495498121996920422
+      arcane_runes_64x64_sheet_75: 8060296966531359086
+      arcane_runes_64x64_sheet_76: -8537164398461505374
+      arcane_runes_64x64_sheet_77: -2189024479509107995
+      arcane_runes_64x64_sheet_78: 731807477809266917
+      arcane_runes_64x64_sheet_79: -5526519243679239317
+      arcane_runes_64x64_sheet_8: -7628939600666567208
+      arcane_runes_64x64_sheet_80: 3348209318000686998
+      arcane_runes_64x64_sheet_81: -1427727670221643970
+      arcane_runes_64x64_sheet_82: 3412020262356638914
+      arcane_runes_64x64_sheet_83: -6170705264413111946
+      arcane_runes_64x64_sheet_84: -1287015818711027500
+      arcane_runes_64x64_sheet_85: -5280846217734894756
+      arcane_runes_64x64_sheet_86: 55603299442899081
+      arcane_runes_64x64_sheet_87: 8053756717298743993
+      arcane_runes_64x64_sheet_88: -6973436094026551424
+      arcane_runes_64x64_sheet_89: -1280872972948346566
+      arcane_runes_64x64_sheet_9: 2027536834779462714
+      arcane_runes_64x64_sheet_90: 2972928309194262093
+      arcane_runes_64x64_sheet_91: -4025430885441445244
+      arcane_runes_64x64_sheet_92: 1682586328293664204
+      arcane_runes_64x64_sheet_93: 5996601060856660335
+      arcane_runes_64x64_sheet_94: 5473754380764397660
+      arcane_runes_64x64_sheet_95: 2727839818946249775
+      arcane_runes_64x64_sheet_96: -4828653360499979887
+      arcane_runes_64x64_sheet_97: -95153294728036732
+      arcane_runes_64x64_sheet_98: -3188417976577557098
+      arcane_runes_64x64_sheet_99: -5739891554930534381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

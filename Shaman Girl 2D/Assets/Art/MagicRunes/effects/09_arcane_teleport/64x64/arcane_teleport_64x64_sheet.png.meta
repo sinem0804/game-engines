@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 26816b85d809e49aaba7939df0272892
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 909868740130908032
+    second: arcane_teleport_64x64_sheet_0
+  - first:
+      213: 7688639176935836079
+    second: arcane_teleport_64x64_sheet_1
+  - first:
+      213: 6121431230119097588
+    second: arcane_teleport_64x64_sheet_2
+  - first:
+      213: 9006676895725683944
+    second: arcane_teleport_64x64_sheet_3
+  - first:
+      213: -686851749721886828
+    second: arcane_teleport_64x64_sheet_4
+  - first:
+      213: 5749410409577969043
+    second: arcane_teleport_64x64_sheet_5
+  - first:
+      213: -5221972844851604039
+    second: arcane_teleport_64x64_sheet_6
+  - first:
+      213: 5004925697285220637
+    second: arcane_teleport_64x64_sheet_7
+  - first:
+      213: 5702034499049492484
+    second: arcane_teleport_64x64_sheet_8
+  - first:
+      213: 5351782324712540778
+    second: arcane_teleport_64x64_sheet_9
+  - first:
+      213: -6673466569610621539
+    second: arcane_teleport_64x64_sheet_10
+  - first:
+      213: -2901560550478042839
+    second: arcane_teleport_64x64_sheet_11
+  - first:
+      213: 3822598526130386867
+    second: arcane_teleport_64x64_sheet_12
+  - first:
+      213: -3593294363754327695
+    second: arcane_teleport_64x64_sheet_13
+  - first:
+      213: -5449184454780367219
+    second: arcane_teleport_64x64_sheet_14
+  - first:
+      213: -4920732829625357418
+    second: arcane_teleport_64x64_sheet_15
+  - first:
+      213: -1346307254081604070
+    second: arcane_teleport_64x64_sheet_16
+  - first:
+      213: -7745287468216703859
+    second: arcane_teleport_64x64_sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872cb76cc080ac00800000000000000
+      internalID: 909868740130908032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98963689883ba60800000000000000
+      internalID: 7688639176935836079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43b346541b3f450800000000000000
+      internalID: 6121431230119097588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e48270dae42efc70800000000000000
+      internalID: 9006676895725683944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa87409ffc776f0800000000000000
+      internalID: -686851749721886828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f3da4e420acf40800000000000000
+      internalID: 5749410409577969043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b552e36d53d787b0800000000000000
+      internalID: -5221972844851604039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e8e98761157540800000000000000
+      internalID: 5004925697285220637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001edc8a22b12f40800000000000000
+      internalID: 5702034499049492484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a84bb5ba9554a40800000000000000
+      internalID: 5351782324712540778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0ae133851363a0800000000000000
+      internalID: -6673466569610621539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 46
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929287e6d069bb7d0800000000000000
+      internalID: -2901560550478042839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7fee44b199c0530800000000000000
+      internalID: 3822598526130386867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 48
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171920370dd022ec0800000000000000
+      internalID: -3593294363754327695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e4c310c9b9064b0800000000000000
+      internalID: -5449184454780367219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69be397009b06bbb0800000000000000
+      internalID: -4920732829625357418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163fe97fa4f05de0800000000000000
+      internalID: -1346307254081604070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane_teleport_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a8ad7516338490800000000000000
+      internalID: -7745287468216703859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arcane_teleport_64x64_sheet_0: 909868740130908032
+      arcane_teleport_64x64_sheet_1: 7688639176935836079
+      arcane_teleport_64x64_sheet_10: -6673466569610621539
+      arcane_teleport_64x64_sheet_11: -2901560550478042839
+      arcane_teleport_64x64_sheet_12: 3822598526130386867
+      arcane_teleport_64x64_sheet_13: -3593294363754327695
+      arcane_teleport_64x64_sheet_14: -5449184454780367219
+      arcane_teleport_64x64_sheet_15: -4920732829625357418
+      arcane_teleport_64x64_sheet_16: -1346307254081604070
+      arcane_teleport_64x64_sheet_17: -7745287468216703859
+      arcane_teleport_64x64_sheet_2: 6121431230119097588
+      arcane_teleport_64x64_sheet_3: 9006676895725683944
+      arcane_teleport_64x64_sheet_4: -686851749721886828
+      arcane_teleport_64x64_sheet_5: 5749410409577969043
+      arcane_teleport_64x64_sheet_6: -5221972844851604039
+      arcane_teleport_64x64_sheet_7: 5004925697285220637
+      arcane_teleport_64x64_sheet_8: 5702034499049492484
+      arcane_teleport_64x64_sheet_9: 5351782324712540778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

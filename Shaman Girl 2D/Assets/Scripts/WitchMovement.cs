@@ -2,60 +2,204 @@ using UnityEngine;
 
 public class WitchMovement : MonoBehaviour
 {
+    [Header("Movement")]
     public float moveSpeed = 3f;
+    public float runSpeed = 5f;
     public float jumpForce = 8f;
+
+    [Header("Magic Leap")]
+    public bool magicLeapUnlocked = false;
+    public float magicLeapForce = 8f;
+    public float magicLeapSpeed = 4.5f;
+    public float magicLeapGravity = 1.5f;
+    public float magicLeapLandingTime = 0.08f;
+
+    [Header("Ground Check")]
+    public Transform groundCheck;
+    public float groundCheckRadius = 0.12f;
+    public LayerMask groundLayer;
 
     private Rigidbody2D rb;
     private Animator animator;
-    private float horizontal;
-    private bool isGrounded;
+    private SpriteRenderer spriteRenderer;
 
-    void Start()
+    private float horizontalInput;
+    private bool isRunning;
+    private bool isGrounded;
+    private bool jumpRequested;
+    private bool magicLeapRequested;
+    private bool isMagicLeaping;
+
+    private bool hasLeftGround;
+    private float landingTimer;
+    private float leapDirection;
+    private float normalGravity;
+
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        normalGravity = rb.gravityScale;
     }
 
     void Update()
     {
-        horizontal = Input.GetAxisRaw("Horizontal");
+        horizontalInput = 0f;
 
-        animator.SetBool("IsWalking", horizontal != 0);
+        if (Input.GetKey(KeyCode.A) ||
+            Input.GetKey(KeyCode.LeftArrow))
+            horizontalInput = -1f;
 
-        if (horizontal != 0)
+        if (Input.GetKey(KeyCode.D) ||
+            Input.GetKey(KeyCode.RightArrow))
+            horizontalInput = 1f;
+
+        isRunning =
+            Input.GetKey(KeyCode.LeftShift) ||
+            Input.GetKey(KeyCode.RightShift);
+
+        isGrounded = Physics2D.OverlapCircle(
+            groundCheck.position,
+            groundCheckRadius,
+            groundLayer
+        ) != null;
+
+        if (Input.GetKeyDown(KeyCode.Space) &&
+            isGrounded &&
+            !isMagicLeaping &&
+            !magicLeapRequested)
         {
-            GetComponent<SpriteRenderer>().flipX = horizontal < 0;
+            if (isRunning && magicLeapUnlocked)
+            {
+                magicLeapRequested = true;
+
+                leapDirection = horizontalInput != 0f
+                    ? horizontalInput
+                    : (spriteRenderer.flipX ? -1f : 1f);
+            }
+            else
+            {
+                jumpRequested = true;
+            }
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (!isMagicLeaping)
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            isGrounded = false;
+            if (horizontalInput > 0)
+                spriteRenderer.flipX = false;
+            else if (horizontalInput < 0)
+                spriteRenderer.flipX = true;
         }
+
+        animator.SetFloat(
+            "Speed",
+            Mathf.Abs(horizontalInput)
+        );
+
+        animator.SetBool(
+            "IsRunning",
+            isRunning && horizontalInput != 0f
+        );
+
+        animator.SetBool(
+            "IsGrounded",
+            isGrounded && !jumpRequested &&
+            !magicLeapRequested
+        );
+
+        animator.SetBool(
+            "IsMagicLeaping",
+            isMagicLeaping || magicLeapRequested
+        );
     }
 
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(
-            horizontal * moveSpeed,
-            rb.linearVelocity.y
-        );
-    }
-
-    void OnCollisionStay2D(Collision2D collision)
-    {
-        foreach (ContactPoint2D contact in collision.contacts)
+        if (magicLeapRequested)
         {
-            if (contact.normal.y > 0.5f)
+            isMagicLeaping = true;
+            magicLeapRequested = false;
+
+            hasLeftGround = false;
+            landingTimer = -1f;
+
+            rb.gravityScale = magicLeapGravity;
+
+            rb.linearVelocity = new Vector2(
+                leapDirection * magicLeapSpeed,
+                magicLeapForce
+            );
+        }
+        else if (jumpRequested)
+        {
+            rb.linearVelocity = new Vector2(
+                horizontalInput * moveSpeed,
+                jumpForce
+            );
+
+            jumpRequested = false;
+        }
+        else if (isMagicLeaping)
+        {
+            if (!isGrounded)
+                hasLeftGround = true;
+
+            if (hasLeftGround && isGrounded &&
+                landingTimer < 0f)
             {
-                isGrounded = true;
-                break;
+                landingTimer = magicLeapLandingTime;
             }
+
+            if (landingTimer >= 0f)
+            {
+                // Stop horizontal movement after landing
+                rb.linearVelocity = new Vector2(
+                    0f,
+                    rb.linearVelocity.y
+                );
+
+                landingTimer -= Time.fixedDeltaTime;
+
+                if (landingTimer < 0f)
+                {
+                    isMagicLeaping = false;
+                    rb.gravityScale = normalGravity;
+                }
+            }
+            else
+            {
+                // Continue moving forward in the air
+                rb.linearVelocity = new Vector2(
+                    leapDirection * magicLeapSpeed,
+                    rb.linearVelocity.y
+                );
+            }
+        }
+        else
+        {
+            float speed = isRunning
+                ? runSpeed
+                : moveSpeed;
+
+            rb.linearVelocity = new Vector2(
+                horizontalInput * speed,
+                rb.linearVelocity.y
+            );
         }
     }
 
-    void OnCollisionExit2D(Collision2D collision)
+    void OnDrawGizmosSelected()
     {
-        isGrounded = false;
+        if (groundCheck != null)
+        {
+            Gizmos.color = Color.yellow;
+
+            Gizmos.DrawWireSphere(
+                groundCheck.position,
+                groundCheckRadius
+            );
+        }
     }
 }

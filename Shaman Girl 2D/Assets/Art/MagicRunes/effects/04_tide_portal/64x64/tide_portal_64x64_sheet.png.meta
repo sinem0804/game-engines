@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 6563133bb66004ed1addc8c0e9f76b43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1753621132108596507
+    second: tide_portal_64x64_sheet_0
+  - first:
+      213: 4901607512823352878
+    second: tide_portal_64x64_sheet_1
+  - first:
+      213: -3956565889479309071
+    second: tide_portal_64x64_sheet_2
+  - first:
+      213: 2183626606239188183
+    second: tide_portal_64x64_sheet_3
+  - first:
+      213: -7816903755201460191
+    second: tide_portal_64x64_sheet_4
+  - first:
+      213: 364394357839135047
+    second: tide_portal_64x64_sheet_5
+  - first:
+      213: 6524729128194997804
+    second: tide_portal_64x64_sheet_6
+  - first:
+      213: -6541505279871281143
+    second: tide_portal_64x64_sheet_7
+  - first:
+      213: 7982396543968479457
+    second: tide_portal_64x64_sheet_8
+  - first:
+      213: -7366277302793114981
+    second: tide_portal_64x64_sheet_9
+  - first:
+      213: 1603651369641249136
+    second: tide_portal_64x64_sheet_10
+  - first:
+      213: 9125004447989185565
+    second: tide_portal_64x64_sheet_11
+  - first:
+      213: 7213256346039588448
+    second: tide_portal_64x64_sheet_12
+  - first:
+      213: -3362580228893419257
+    second: tide_portal_64x64_sheet_13
+  - first:
+      213: -1437586890205219355
+    second: tide_portal_64x64_sheet_14
+  - first:
+      213: 669975280264115203
+    second: tide_portal_64x64_sheet_15
+  - first:
+      213: 3509801037922041581
+    second: tide_portal_64x64_sheet_16
+  - first:
+      213: 8805095335766200377
+    second: tide_portal_64x64_sheet_17
+  - first:
+      213: -5753354362299129821
+    second: tide_portal_64x64_sheet_18
+  - first:
+      213: -8400080854032151041
+    second: tide_portal_64x64_sheet_19
+  - first:
+      213: -1892140108986408246
+    second: tide_portal_64x64_sheet_20
+  - first:
+      213: 8279218274344861663
+    second: tide_portal_64x64_sheet_21
+  - first:
+      213: -6538404142524641021
+    second: tide_portal_64x64_sheet_22
+  - first:
+      213: -4087674208473955268
+    second: tide_portal_64x64_sheet_23
+  - first:
+      213: 1905939871461231248
+    second: tide_portal_64x64_sheet_24
+  - first:
+      213: 282329176068153229
+    second: tide_portal_64x64_sheet_25
+  - first:
+      213: -1341537112274162108
+    second: tide_portal_64x64_sheet_26
+  - first:
+      213: 3327879333765804423
+    second: tide_portal_64x64_sheet_27
+  - first:
+      213: 3334503657406952631
+    second: tide_portal_64x64_sheet_28
+  - first:
+      213: -6232188990611589461
+    second: tide_portal_64x64_sheet_29
+  - first:
+      213: -7778639849263494238
+    second: tide_portal_64x64_sheet_30
+  - first:
+      213: -9143881279825310406
+    second: tide_portal_64x64_sheet_31
+  - first:
+      213: 3306968285155457898
+    second: tide_portal_64x64_sheet_32
+  - first:
+      213: 5484950079298487401
+    second: tide_portal_64x64_sheet_33
+  - first:
+      213: -3448535736745215041
+    second: tide_portal_64x64_sheet_34
+  - first:
+      213: 5517684660477926021
+    second: tide_portal_64x64_sheet_35
+  - first:
+      213: -3354472981092378455
+    second: tide_portal_64x64_sheet_36
+  - first:
+      213: -3614848507792127154
+    second: tide_portal_64x64_sheet_37
+  - first:
+      213: 3933060945664594342
+    second: tide_portal_64x64_sheet_38
+  - first:
+      213: 4898310143930574658
+    second: tide_portal_64x64_sheet_39
+  - first:
+      213: -995084783009242412
+    second: tide_portal_64x64_sheet_40
+  - first:
+      213: 4580988550701649826
+    second: tide_portal_64x64_sheet_41
+  - first:
+      213: -1247506435459961307
+    second: tide_portal_64x64_sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 134
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1583f9e02d165810800000000000000
+      internalID: 1753621132108596507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 131
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ec8362012060440800000000000000
+      internalID: 4901607512823352878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 130
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8882b49447719c0800000000000000
+      internalID: -3956565889479309071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 131
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48afa34dccd4e10800000000000000
+      internalID: 2183626606239188183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128cccb4377c48390800000000000000
+      internalID: -7816903755201460191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7418821ecb69e0500800000000000000
+      internalID: 364394357839135047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef4b5929e7c8a50800000000000000
+      internalID: 6524729128194997804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081ee83b97e735a0800000000000000
+      internalID: -6541505279871281143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 137
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80c8b3d5b27ce60800000000000000
+      internalID: 7982396543968479457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6ef142d9b5c990800000000000000
+      internalID: -7366277302793114981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07909079c60514610800000000000000
+      internalID: 1603651369641249136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 139
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3148f23782ae70800000000000000
+      internalID: 9125004447989185565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669583ed62aa1460800000000000000
+      internalID: 7213256346039588448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7095e08f817b551d0800000000000000
+      internalID: -3362580228893419257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53f8b075aac0ce0800000000000000
+      internalID: -1437586890205219355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047f6cb7fa3c4900800000000000000
+      internalID: 669975280264115203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef3a1c27155b030800000000000000
+      internalID: 3509801037922041581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9301bc57e8bf13a70800000000000000
+      internalID: 8805095335766200377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 67
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206738a0baf720b0800000000000000
+      internalID: -5753354362299129821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd8ad208faec6b80800000000000000
+      internalID: -8400080854032151041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a89a8894cdb5e0800000000000000
+      internalID: -1892140108986408246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 63
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf7f34c721b5e270800000000000000
+      internalID: 8279218274344861663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 64
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30150e6031ce245a0800000000000000
+      internalID: -6538404142524641021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 67
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34426ef6f9a547c0800000000000000
+      internalID: -4087674208473955268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a43b90732437a10800000000000000
+      internalID: 1905939871461231248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f5549c3e80be300800000000000000
+      internalID: 282329176068153229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 63
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e25e9aa17e16de0800000000000000
+      internalID: -1341537112274162108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78179784f900f2e20800000000000000
+      internalID: 3327879333765804423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b47bf1d869864e20800000000000000
+      internalID: 3334503657406952631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6fe71f121d289a0800000000000000
+      internalID: -6232188990611589461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab83f42548bc0490800000000000000
+      internalID: -7778639849263494238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0baf1c686a1180800000000000000
+      internalID: -9143881279825310406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b7c206226b4ed20800000000000000
+      internalID: 3306968285155457898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964465f59057e1c40800000000000000
+      internalID: 5484950079298487401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbbf00c4075420d0800000000000000
+      internalID: -3448535736745215041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 17
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a986af6f0c29c40800000000000000
+      internalID: 5517684660477926021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d751b8948271d0800000000000000
+      internalID: -3354472981092378455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b03383f6a75ddc0800000000000000
+      internalID: -3614848507792127154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dc42871a059630800000000000000
+      internalID: 3933060945664594342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247aca0af1b4af340800000000000000
+      internalID: 4898310143930574658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 22
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2665b79afb032f0800000000000000
+      internalID: -995084783009242412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 26
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af04b4d0d0f29f30800000000000000
+      internalID: 4580988550701649826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tide_portal_64x64_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e256ba187ffaee0800000000000000
+      internalID: -1247506435459961307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tide_portal_64x64_sheet_0: 1753621132108596507
+      tide_portal_64x64_sheet_1: 4901607512823352878
+      tide_portal_64x64_sheet_10: 1603651369641249136
+      tide_portal_64x64_sheet_11: 9125004447989185565
+      tide_portal_64x64_sheet_12: 7213256346039588448
+      tide_portal_64x64_sheet_13: -3362580228893419257
+      tide_portal_64x64_sheet_14: -1437586890205219355
+      tide_portal_64x64_sheet_15: 669975280264115203
+      tide_portal_64x64_sheet_16: 3509801037922041581
+      tide_portal_64x64_sheet_17: 8805095335766200377
+      tide_portal_64x64_sheet_18: -5753354362299129821
+      tide_portal_64x64_sheet_19: -8400080854032151041
+      tide_portal_64x64_sheet_2: -3956565889479309071
+      tide_portal_64x64_sheet_20: -1892140108986408246
+      tide_portal_64x64_sheet_21: 8279218274344861663
+      tide_portal_64x64_sheet_22: -6538404142524641021
+      tide_portal_64x64_sheet_23: -4087674208473955268
+      tide_portal_64x64_sheet_24: 1905939871461231248
+      tide_portal_64x64_sheet_25: 282329176068153229
+      tide_portal_64x64_sheet_26: -1341537112274162108
+      tide_portal_64x64_sheet_27: 3327879333765804423
+      tide_portal_64x64_sheet_28: 3334503657406952631
+      tide_portal_64x64_sheet_29: -6232188990611589461
+      tide_portal_64x64_sheet_3: 2183626606239188183
+      tide_portal_64x64_sheet_30: -7778639849263494238
+      tide_portal_64x64_sheet_31: -9143881279825310406
+      tide_portal_64x64_sheet_32: 3306968285155457898
+      tide_portal_64x64_sheet_33: 5484950079298487401
+      tide_portal_64x64_sheet_34: -3448535736745215041
+      tide_portal_64x64_sheet_35: 5517684660477926021
+      tide_portal_64x64_sheet_36: -3354472981092378455
+      tide_portal_64x64_sheet_37: -3614848507792127154
+      tide_portal_64x64_sheet_38: 3933060945664594342
+      tide_portal_64x64_sheet_39: 4898310143930574658
+      tide_portal_64x64_sheet_4: -7816903755201460191
+      tide_portal_64x64_sheet_40: -995084783009242412
+      tide_portal_64x64_sheet_41: 4580988550701649826
+      tide_portal_64x64_sheet_42: -1247506435459961307
+      tide_portal_64x64_sheet_5: 364394357839135047
+      tide_portal_64x64_sheet_6: 6524729128194997804
+      tide_portal_64x64_sheet_7: -6541505279871281143
+      tide_portal_64x64_sheet_8: 7982396543968479457
+      tide_portal_64x64_sheet_9: -7366277302793114981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
