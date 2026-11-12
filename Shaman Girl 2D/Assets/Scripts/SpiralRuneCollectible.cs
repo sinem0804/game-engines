@@ -5,6 +5,9 @@ public class SpiralRuneCollectible : MonoBehaviour
     [Header("Collection Effect")]
     public GameObject collectEffectPrefab;
 
+    [Header("Score")]
+    public int points = 100;
+
     private bool collected = false;
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -22,7 +25,13 @@ public class SpiralRuneCollectible : MonoBehaviour
             // Unlock Magic Leap
             witch.magicLeapUnlocked = true;
 
-            // Spawn magical particles
+            // Award points and update the highscore
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.AddScore(points);
+            }
+
+            // Play the magical collection effect
             if (collectEffectPrefab != null)
             {
                 GameObject effect = Instantiate(
@@ -40,9 +49,8 @@ public class SpiralRuneCollectible : MonoBehaviour
                 Destroy(effect, 2f);
             }
 
-            Debug.Log("Rune of Courage collected! Magic Leap unlocked!");
+            Debug.Log("Rune collected! Magic Leap unlocked!");
 
-            // Remove the rune, but keep the particles
             Destroy(gameObject);
         }
     }
