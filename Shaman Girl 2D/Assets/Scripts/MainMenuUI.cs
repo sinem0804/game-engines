@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MainMenuUI : MonoBehaviour
 {
@@ -14,10 +15,14 @@ public class MainMenuUI : MonoBehaviour
         howToPlayPanel.SetActive(false);
     }
 
+    public void PlayGame()
+    {
+        SceneManager.LoadScene("Level1_ForgottenVillage_New");
+    }
+
     public void ExitGame()
     {
         Application.Quit();
         Debug.Log("Exit button clicked!");
     }
 }
-

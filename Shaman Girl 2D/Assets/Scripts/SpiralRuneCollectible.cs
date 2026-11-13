@@ -18,18 +18,15 @@ public class SpiralRuneCollectible : MonoBehaviour
         WitchMovement witch =
             other.GetComponentInParent<WitchMovement>();
 
-        if (witch != null)
+        if (witch != null && GameManager.Instance != null)
         {
             collected = true;
 
-            // Unlock Magic Leap
-            witch.magicLeapUnlocked = true;
+            // Add one rune to the collection
+            GameManager.Instance.CollectRune(witch);
 
-            // Award points and update the highscore
-            if (GameManager.Instance != null)
-            {
-                GameManager.Instance.AddScore(points);
-            }
+            // Award points
+            GameManager.Instance.AddScore(points);
 
             // Play the magical collection effect
             if (collectEffectPrefab != null)
@@ -48,8 +45,6 @@ public class SpiralRuneCollectible : MonoBehaviour
 
                 Destroy(effect, 2f);
             }
-
-            Debug.Log("Rune collected! Magic Leap unlocked!");
 
             Destroy(gameObject);
         }
