@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 
+[RequireComponent(typeof(AudioSource))]
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
@@ -12,6 +13,11 @@ public class GameManager : MonoBehaviour
     [Header("Magic Runes")]
     public int runesCollected = 0;
     public int runesRequired = 4;
+
+    [Header("Rune Collection Sound")]
+    [SerializeField] private AudioClip runeCollectSound;
+    [SerializeField, Range(0f, 1f)] private float runeCollectVolume = 0.7f;
+    private AudioSource runeAudioSource;
 
     [Header("UI")]
     public TMP_Text scoreText;
@@ -28,6 +34,14 @@ public class GameManager : MonoBehaviour
         }
 
         Instance = this;
+
+        // Existing scene instances may not yet have the required component.
+        runeAudioSource = GetComponent<AudioSource>();
+        if (runeAudioSource == null)
+            runeAudioSource = gameObject.AddComponent<AudioSource>();
+        runeAudioSource.playOnAwake = false;
+        runeAudioSource.loop = false;
+        runeAudioSource.spatialBlend = 0f; // 2D: no distance-based volume changes.
 
         highscore = PlayerPrefs.GetInt("Highscore", 0);
     }
@@ -55,6 +69,10 @@ public class GameManager : MonoBehaviour
     public void CollectRune(WitchMovement witch)
     {
         runesCollected++;
+
+        // This source survives the collectible, and one-shots can overlap for quick pickups.
+        if (runeCollectSound != null)
+            runeAudioSource.PlayOneShot(runeCollectSound, runeCollectVolume);
 
         UpdateRunesUI();
 

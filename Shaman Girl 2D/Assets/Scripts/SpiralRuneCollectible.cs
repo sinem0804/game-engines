@@ -28,6 +28,9 @@ public class SpiralRuneCollectible : MonoBehaviour
             // Award points
             GameManager.Instance.AddScore(points);
 
+            // Brief URP screen tint; collection still works if the camera has no effect component.
+            Camera.main?.GetComponent<RuneCollectionPostProcess>()?.Play();
+
             // Play the magical collection effect
             if (collectEffectPrefab != null)
             {
